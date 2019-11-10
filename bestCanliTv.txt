@@ -923,6 +923,27 @@
 
 
  , 
+ 
+       {
+                "A": "685",
+                "B": "DISNEY CHANNEL",
+                "C": "7",
+                "D": 0,
+                "E": "",
+                "F": "http:\/\/www.netd.com\/content\/images\/disney.png?v=10",
+                "G": "http://ustvgo.tv/espn2",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"http://ustvgo.tv/espn2\"}",
+                "N": "Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)",
+                "O": "",
+                "P": 0
+            },
+ 
   
   { "A": "1", "B": "Eurosport 2 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1420.png", "G": "https://sportbar.biz/ruseuro2.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/ruseuro2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
 
