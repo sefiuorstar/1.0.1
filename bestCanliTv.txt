@@ -935,7 +935,7 @@
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "pattern",
-                "K": "file: '(.*?)'",
+                "K": "file: '(.m3u8?)'",
                 "L": "",
                 "M": "",
                 "R": "{\"Referer\":\"http://ustvgo.tv/espn2\"}",
