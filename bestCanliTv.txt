@@ -105,7 +105,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://wwvv.yakyak.tech/images/ZZ01.m3u8
+ "G": "http://chwaramm4.club/images/ZZ01.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -127,7 +127,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://wwvv.yakyak.tech/images/ZZ02.m3u8
+ "G": "http://chwaramm4.club/images/ZZ02.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -152,7 +152,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://wwvv.yakyak.tech/images/ZZ03.m3u8
+"G": "http://chwaramm4.club/images/ZZ03.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -175,7 +175,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://wwvv.yakyak.tech/images/ZZ04.m3u8
+"G": "http://chwaramm4.club/images/ZZ04.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -196,7 +196,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"G": "http://wwvv.yakyak.tech/images/ZZ05.m3u8
+"G": "http://chwaramm4.club/images/ZZ05.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -219,7 +219,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://wwvv.yakyak.tech/images/ZZ06.m3u8
+ "G": "http://chwaramm4.club/images/ZZ06.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
