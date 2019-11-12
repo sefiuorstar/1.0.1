@@ -203,7 +203,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"G": "http://chwaramm4.club/images/ZZ05.m3u8
+"G": "http://seyamm3.online/images/ZZ05.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -226,7 +226,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://chwaramm4.club/images/ZZ06.m3u8
+ "G": "http://seyamm3.online/images/ZZ06.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
