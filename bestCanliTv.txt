@@ -951,7 +951,8 @@
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "pattern",
-                "K": "file: '(.*?)'",
+                "K": "
+  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://sportbar.biz/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
                 "L": "",
                 "M": "",
                 "R": "{\"Referer\":\"http://watchnewslive.tv/espn/\"}",
