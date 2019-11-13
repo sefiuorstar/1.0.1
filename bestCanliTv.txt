@@ -97,7 +97,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://chwaramm4.club/images/ZZ01.m3u8
+ "G": "http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -119,7 +119,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://chwaramm4.club/images/ZZ02.m3u8
+ "G": "http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/2.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -144,7 +144,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://chwaramm4.club/images/ZZ03.m3u8
+"G": "http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/3.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -167,7 +167,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://chwaramm4.club/images/ZZ04.m3u8
+"G": "http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/4.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -188,7 +188,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"G": "http://seyamm3.online/images/ZZ05.m3u8
+"G": "http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/5.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
