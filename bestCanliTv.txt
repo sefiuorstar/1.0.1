@@ -95,7 +95,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http:\/\/217.23.0.166\/iptv\/ch8111?code=103131497823984
+ "G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/28
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -117,7 +117,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http:\/\/217.23.0.166\/iptv\/ch8112?code=103131497823984
+ "G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/30
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -142,7 +142,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http:\/\/217.23.0.166\/iptv\/ch8113?code=103131497823984
+"G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/32
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -165,7 +165,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http:\/\/217.23.0.166\/iptv\/ch8114?code=103131497823984
+"G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/34
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -186,7 +186,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"G": "http:\/\/217.23.0.166\/iptv\/ch8115?code=103131497823984
+"G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/36
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -209,7 +209,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http:\/\/217.23.0.166\/iptv\/ch8116?code=103131497823984
+ "G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/38
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -231,7 +231,7 @@
 
 
 
- {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png","G":"http:\/\/217.23.0.166\/iptv\/ch8117?code=103131497823984", "H": "defaultplayer",
+ {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png","G":"http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/40", "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
@@ -242,7 +242,7 @@
 "P":0},
 
 
- {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png","G":"http:\/\/217.23.0.166\/iptv\/ch8118?code=103131497823984", "H": "defaultplayer",
+ {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png","G":"http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/42", "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
@@ -253,7 +253,7 @@
 "P":0},
  
  
- {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png","G":"http:\/\/217.23.0.166\/iptv\/ch8510?code=103131497823984", "H": "defaultplayer",
+ {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png","G":"http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/44", "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
