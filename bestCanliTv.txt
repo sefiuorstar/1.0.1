@@ -95,7 +95,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/28
+ "G": "wwvv.yakboyak.site/images/ZZ01.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -103,9 +103,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "R":"{\"Referer\":\"http://qanat.tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
 
@@ -117,7 +115,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/30
+ "G": "wwvv.yakboyak.site/images/ZZ02.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -125,9 +123,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+"R":"{\"Referer\":\"http://qanat.tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
 
  
@@ -142,7 +138,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/32
+"G": "wwvv.yakboyak.site/images/ZZ03.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -150,10 +146,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
- 
+ "R":"{\"Referer\":\"http://qanat.tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
 
 
 
@@ -165,7 +158,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/34
+"G": "wwvv.yakboyak.site/images/ZZ04.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -173,9 +166,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "R":"{\"Referer\":\"http://qanat.tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
 
@@ -186,7 +177,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/36
+"G": "wwvv.yakboyak.site/images/ZZ05.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -194,9 +185,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "R":"{\"Referer\":\"http://qanat.tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
   
@@ -209,7 +198,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://vtpii.net:25461/MoviLada-bqMllmel93/oeiTuAt0Fg-MoviLada/38
+ "G": "wwvv.yakboyak.site/images/ZZ06.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -217,9 +206,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
- "P": 0 },
+ "R":"{\"Referer\":\"http://qanat.tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
   
   
