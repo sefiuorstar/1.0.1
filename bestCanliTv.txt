@@ -24,11 +24,6 @@
 
 
 
-
-
-
-
- 
  
 {"A":"4","B":"Bein Sports Haber
 ","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a1086.png","G":"http://mobile.canlitvlive.io/izle/bein-sports-haber.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://mobile.canlitvlive.io/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
@@ -105,11 +100,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/275
+ "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports1
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -127,11 +122,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/276
+ "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports2
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -152,11 +147,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/277
+ "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports3
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -175,11 +170,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/278
+ "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports4
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -196,11 +191,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
-"G": "http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/279
+ "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports5
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -219,11 +214,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/280
+  "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports6
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -241,10 +236,11 @@
 
 
 
- {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png","G":"http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/281",
-  "H": "defaultplayer",
+ {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports7
+",
+ "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -253,9 +249,11 @@
 "P":0},
 
 
- {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png","G":"http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/282", "H": "defaultplayer",
+ {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports8
+",
+ "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -264,9 +262,11 @@
 "P":0},
  
  
- {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png","G":"http://raeed.space:25461/TvRaeedtv100Hour/TvRaeedtv100Hour/283", "H": "defaultplayer",
+ {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports9
+",
+ "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -276,9 +276,11 @@
  
  
  
- {"A":"17","B":"Bein 10 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png","G":"http:\/\/217.23.0.166\/iptv\/ch8511?code=103131497823984", "H": "defaultplayer",
+ {"A":"17","B":"Bein 10 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports10
+",
+ "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
