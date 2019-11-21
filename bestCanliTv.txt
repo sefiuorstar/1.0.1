@@ -921,7 +921,7 @@
  
   , 
   
-  { "A": "1", "B": " ESPN 2 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://62.210.151.48:8000/moradplus4ou42kjgbb/55128407/4808",  "H":"vitamioplayer","I":"false","J":"direct","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " ESPN 2 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://62.210.151.48:8000/live/moradplus4ou42kjgbb/55128407/4808.m3u8",  "H":"vitamioplayer","I":"false","J":"direct","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
   , 
