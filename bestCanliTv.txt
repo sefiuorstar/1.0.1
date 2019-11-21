@@ -911,10 +911,10 @@
 
  , 
   
-  { "A": "1", "B": " ESPN 1 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://ustvgo.tv/espn-live",  "H":"defaultplayer","I":"false", "J": "pattern",
-                "K": "file: '(.*?)'",
+  { "A": "1", "B": " ESPN 1 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://live.maxcimo.com:8000/live/moradplus4ou42kjgbb/55128407/4789.m3u8",  "H":"defaultplayer","I":"false", "J": "direct",
+                "K": "",
                 "L": "",
-                "M": "","R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+                "M": "","R": "", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
