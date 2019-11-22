@@ -12,7 +12,8 @@
 
 
 
-{"A":"853","B":"Live Soccer","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","G":"https://vertelevision.tv/tv/nacionales/canal-cero.php/","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://vertelevision.tv/ver-0-online-gratis-por-internet-24h-en-directo//\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+{"A":"853","B":"Live Soccer","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","G":"
+https://t.me/football_live_plus/","H":"webplayer","I":"false","J":"openbrowser","K":"","L":"","M":"","R":"{\"Referer\":\"https://vertelevision.tv/ver-0-online-gratis-por-internet-24h-en-directo//\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
 
