@@ -28,7 +28,6 @@
 
 
 
-
  
 {"A":"4","B":"Bein Sports Haber
 ","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a1086.png","G":"http://mobile.canlitvlive.io/izle/bein-sports-haber.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://mobile.canlitvlive.io/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
@@ -609,6 +608,99 @@
  , 
  
  
+ 
+ 
+{ "A": "8",
+ "B": "RMC SPORT HD 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
+ "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+ 
+ { "A": "8",
+ "B": "RMC SPORT HD 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
+ "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport2
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+ 
+ { "A": "8",
+ "B": "RMC SPORT HD 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
+ "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport3
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ { "A": "8",
+ "B": "RMC SPORT HD 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1430.png", 
+ "G": "https://kooralive247.com/cha/embed.php?stream=RMCSport4
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  {"A":"853","B":"Bein 1 (FR) HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a400.png","G":"http://www.elahmad.com/tv/mobiletv/bein_tv.php?id=bein1fr ","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.elahmad.com/tv/mobiletv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
  
@@ -911,22 +1003,22 @@
 
  , 
   
-  { "A": "1", "B": " ESPN 1 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://live.maxcimo.com:8000/live/moradplus4ou42kjgbb/55128407/4789.m3u8",  "H":"defaultplayer","I":"false", "J": "direct",
-                "K": "",
+  { "A": "1", "B": " ESPN 1 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://ustvgo.tv/espn-live",  "H":"defaultplayer","I":"false", "J": "pattern",
+                "K": "file: '(.*?)'",
                 "L": "",
-                "M": "","R": "", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+                "M": "","R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
  
   , 
   
-  { "A": "1", "B": " ESPN 2 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://62.210.151.48:8000/moradplus4ou42kjgbb/55128407/4808",  "H":"vitamioplayer","I":"false","J":"direct","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " ESPN 2 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://ustvgo.tv/espn2",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
   , 
   
-  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "https://sportbox.ws/itsupertennis.html",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbox.ws/itsupertennis.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "http://ustvgo.tv/tennis-channel-live-free",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
