@@ -13,9 +13,13 @@
 
 
 {"A":"853","B":"Live Soccer","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","G":"
-https://t.me/football_live_plus","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"view-source:http://csport.xyz/t/2/6.php?id=ssp/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
+https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","M":"","R":"","N":"","O":"25.01.2019 00:39:23","P":0}, 
  
  
+
+
+
+
 
 
 
@@ -24,11 +28,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"false","J":"direct","K":
  
  
 
-{"A":"853","B":"Live Soccer","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://image.winudf.com/v2/image1/Y29tLmxpdmVzb2NjZXJ0dl9pY29uXzE1NjY5OTYxODlfMDAy/icon.png?w=100&fakeurl=1","G":"https://m.liveonsat.com/","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://m.livesoccertv.com/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}, 
  
-
-
-
  
 {"A":"4","B":"Bein Sports Haber
 ","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a1086.png","G":"http://mobile.canlitvlive.io/izle/bein-sports-haber.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://mobile.canlitvlive.io/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
@@ -384,9 +384,9 @@ https://t.me/football_live_plus","H":"openbrowser","I":"false","J":"direct","K":
  
  ,
  
- { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "https://sportbar.biz/mfootball1.html", "H": "defaultplayer", "I": "false", "J": "graphm3u8", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/mfootball1.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
+ { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "https://sport7.biz/e62e873a751ac44521d684e30178be4c-live.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/mfootball1.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
   
-  { "A": "1", "B": "Match Futbol 2 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463984515_match-futbol-2.png", "G": "https://sportbar.biz/rumatchf2.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
+  { "A": "1", "B": "Match Futbol 2 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463984515_match-futbol-2.png", "G": "https://sport7.biz/698c9b6bee9a4fa5336708c17e462968-live.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/rumatchf2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
   
   { "A": "1", "B": "Match Futbol 3 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558979885_math_futbol_3.png", "G": "https://sportbar.biz/matfoot3.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/matfoot3.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
@@ -718,6 +718,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"false","J":"direct","K":
  
  
  
+ 
  , {"A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a90.png","G":"https://sportbar.biz/sspl.html ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://sportbar.biz/sspl.html/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
@@ -1004,36 +1005,82 @@ https://t.me/football_live_plus","H":"openbrowser","I":"false","J":"direct","K":
 
  , 
   
-  { "A": "1", "B": " ESPN 1 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "https://www.streamlive.to/view/69028/ESPN%202%20(SD)",  "H":"defaultplayer","I":"false", "J": "graphm3u8",
-                "K": "",
-                "L": "",
-                "M": "","R": "{\"Referer\":\"https://www.streamlive.to/\"}", "N": "VLC/3.0.0-git LibVLC/3.0.0-git", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
-
- 
-  , 
   
-  { "A": "1", "B": " ESPN 2 (US) ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://1079020916.rsc.cdn77.org/images/teams/Logo-ESPN.png", "G": "http://ustvgo.tv/espn2",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
- 
- 
-  , 
   
-  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "http://ustvgo.tv/tennis-channel-live-free",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": " Tennis Channel", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://ustvgo.tv/wp-content/uploads/2019/01/TennisChannel.whiteBg.png", "G": "https://sportbar.biz/itsupertennis.html",  "H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"", "R": "{\"Referer\":\"https://sportbar.biz/itsupertennis.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
  , 
   
-  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://sportbar.biz/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportsbay.org/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+  { "A": "1", "B": "Belarus 5 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1020.png", "G": "https://sportbar.biz/bel555.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
   
  
  
 
  , 
+ 
+ 
+   { "A": "1", "B": "QAZ Sport ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/tv-station-qaz-sport-1441.png", "G": "https://sportbar.biz/qazsportkz.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/qazsportkz.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+ 
   
-  { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://sportbar.biz/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+ 
+ 
+
+ , 
+  
+  
+  {"A":"853","B":"CMore Sport","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a480.png","G":"http://95.170.215.120/hls/m3u8/CMore-Sport.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ ,
+  
+ 
+ 
+  
+{"A":"853","B":"CMore Football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a482.png","G":"http://95.170.215.120/hls/m3u8/CMore-Football.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+  
+  
+  
+  {"A":"853","B":"CMore Live1 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a484.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live1-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+  
+  
+  
+  
+  {"A":"853","B":"CMore Live2 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a485.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live2-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+  
+  
+
+{"A":"853","B":"CMore Live3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a486.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live3-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+{"A":"853","B":"CMore Live4 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a496.png","G":"http://95.170.215.120/hls/m3u8/CMore-Live4-HD.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+{"A":"853","B":"ZIGGO Voetbal","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a286.png","G":"http://95.170.215.118/hls/m3u8/ZIGGO-voetbal.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+{"A":"853","B":"ZIGGO Select","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-ziggo-select-285.png","G":"http://95.170.215.118/hls/m3u8/ZIGGO-Select.m3u8 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+
+
+
+
+
+
+  
+    { "A": "1", "B": "Eurosport 1 ", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/stations/a1419.png", "G": "https://sportbar.biz/eurosport1rus.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://sportbar.biz/eurosport1rus.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
  
  
 
