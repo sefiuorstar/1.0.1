@@ -1097,7 +1097,9 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 
-
+,
+ 
+ { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "http://ustvgo.tv/fox-sports-1/", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
 
 
 
