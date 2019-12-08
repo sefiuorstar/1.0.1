@@ -1098,6 +1098,10 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 ,
+
+{"A":"1144","B":"DİYANET TV HD","C":"12","D":"DİNİ KANALLAR","E":"DİNİ KANALLAR","F":"https://1.bp.blogspot.com/-mWVstD0cuH4/XdGtCen-pcI/AAAAAAAAAk0/q_lyB15z1dM4FEMiZd3MFH-8s-CuVJ1KwCLcBGAsYHQ/s1600/PicsArt_11-17-08.59.49.png","G":"https://vergol.com/aplicacion/app1/mlaligajkrp.php","H":"defaultplayer","I":"false","J":"staticpattern","K":"src\"\:\"(.*m3u8)['\"]","L":"http:","M":"","R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/mlaligajkrp.php/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:39:32","P":0},
+
+
  
  { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "http://iptv.ndasat.com:88/live/671745374304719/671745374304719/3044.m3u8 ", "H": "defaultplayer", "I": "false", "J": "direct", "K": "https://peer1.ustv.to/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDE5IDEwOjA4OjI0IFBNJmhhc2hfdmFsdWU9eElydkh1UFVaWWpGSXdRVmRFa2srQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==", "L": "", "M": "", "R": "{\"Referer\":\"http://ustvgo.tv/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
 
