@@ -949,7 +949,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
  
   
- {"A":"17","B":"Nhl-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nhl-network-49.png","G":"http://docs-2.gogleusercontent.host/live/nhl/playlist.m3u8
+ {"A":"17","B":"Nhl-tv HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nhl-network-49.png","G":"http://docs-2.gogleusercontent.host/live/nhltv/playlist.m3u8
 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/nhl-network/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0},
  
