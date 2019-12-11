@@ -513,7 +513,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
  
  
- {"A":"853","B":"varzish sport HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781523_logo_varzish_sport_hd.png","G":"http://str-2.mediabay.tv/live/Varzish/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ {"A":"853","B":"varzish sport HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781523_logo_varzish_sport_hd.png","G":"https://www.dufree4k.com/tv/premier-football-hd-1-2/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  ,
  
