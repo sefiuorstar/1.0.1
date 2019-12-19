@@ -1060,7 +1060,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
   
   
 
-{"A":"853","B":"CMore Live3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a486.png","G":"http://212.224.72.126/?watch=TR/mbc1-ar&token=G5gkrLcRr6x5GaBZtd0JgA==,1576763749.9547500475&t=1&s=1&p=1&c=TR&r=19 ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+{"A":"853","B":"CMore Live3 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a486.png","G":"http://212.224.72.126/?watch=TR/mbc1-ar&token=G5gkrLcRr6x5GaBZtd0JgA==,1576763749.9547500475&t=1&s=1&p=1&c=TR&r=19 ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
 
 
 
