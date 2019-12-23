@@ -1149,7 +1149,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "D": 0,
                 "E": "",
                 "F": "https://www.stream4free.live//images/avatars/france4.jpg",
-                "G": "https://www.stream4free.live/france-4-live",
+                "G": "https://www.stream4free.live/france-4",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "pattern",
