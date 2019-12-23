@@ -1705,7 +1705,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "D": 0,
                 "E": "",
                 "F": "https://www.tvcatchup.com/channel-images/bbctwo.png",
-                "G": "http://www.tvcatchup.com/watch/bbctwo",
+                "G": "http://tvcatchup.com:8080/watch/bbctwo",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "pattern",
