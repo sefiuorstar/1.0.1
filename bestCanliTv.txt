@@ -808,7 +808,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
   
  
- , {"A":"853","B":"Fox Sports 3 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a243.png","G":"http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts?.coms ","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
+ , {"A":"853","B":"Fox Sports 3 HD NL","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a243.png","G":"https://www.dufree4k.com/tv/fox-sport-3/ ","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"http://www.wssapp.org/WSS2.3/\"}","N":"245sdee654ere","O":"25.01.2019 00:39:23","P":0}
  
  
  
