@@ -1956,7 +1956,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 {
                 "A": "3501",
-                "B": "BBC ONE daily",
+                "B": "BBC ONE daily1",
                 "C": "17",
                 "D": 0,
                 "E": "",
@@ -1964,8 +1964,8 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "G": "https://dailysport.pw/c1.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "pattern",
-                "K": "file: '(.*?)'",
+                "J": "graphm3u8",
+                "K": "",
                 "L": "",
                 "M": "",
                 "R": "{\"Referer\":\"https://dailysport.pw/c1.php\"}",
