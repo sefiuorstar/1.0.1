@@ -29,11 +29,14 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
 
 
+
+
+
 {
                 "A": "3501",
                 "B": "Live 1",
                 "C": "17",
-                "D": Live In Event,
+                 "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c1.php",
@@ -62,7 +65,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 2",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c2.php",
@@ -89,7 +92,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 3",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c3.php",
@@ -121,7 +124,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 4",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c4.php",
@@ -152,7 +155,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 5",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c5.php",
@@ -183,7 +186,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 6",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c6.php",
@@ -210,7 +213,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 7",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c7.php",
@@ -236,7 +239,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "A": "3501",
                 "B": "Live 8",
                 "C": "17",
-                "D": Live In Event,
+                "D": "Live In Event",
                 "E": "",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://dailysport.pw/c8.php",
