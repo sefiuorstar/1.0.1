@@ -341,23 +341,22 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 
-
 { "A": "8",
  "B": "Bein HD 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports1
+ "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/1.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", "O": "",
  "P": 0 },
  
  
@@ -370,16 +369,16 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports2
+ "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/2.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", "O": "",
  "P": 0 },
  
 
@@ -395,16 +394,16 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports3
+ "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/4.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", "O": "",
  "P": 0 },
  
 
@@ -418,16 +417,16 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports4
+ "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/3.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", "O": "",
  "P": 0 },
  
  
@@ -439,16 +438,16 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports5
+ "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/5.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", "O": "",
  "P": 0 },
  
  
@@ -462,16 +461,16 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
-  "G": "https://kooralive247.com/cha/embed.php?stream=BeinSports6
+  "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/6.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", "O": "",
  "P": 0 },
  
   
@@ -488,11 +487,11 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
-"N":"ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5",
+"N":"www.yacineapp.tv",
 "O":"",
 "P":0},
 
@@ -501,11 +500,11 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
-"N":"ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5",
+"N":"www.yacineapp.tv",
 "O":"",
 "P":0},
  
@@ -514,7 +513,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -528,40 +527,13 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
-"N":"ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5",
+"N":"www.yacineapp.tv",
 "O":"",
 "P":0},
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-{"A":"853","B":"Bein sport 1 US HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://www.dufree4k.com/wp-content/uploads/2019/06/epl-bein1.png","G":"https://www.dufree4k.com/tv/bein-sport-hd-1/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0} , 
-
-
-
-
-
-
-{"A":"853","B":"Bein sport 2 US HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://www.dufree4k.com/wp-content/uploads/2019/06/epl-bein2.png","G":"https://www.dufree4k.com/tv/bein-sport-hd-2/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0} , 
-
- 
  
  
  
