@@ -347,7 +347,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://yacinebeiin.ddns.net:8000/live/beeeiiin99/beeeiiin99/1.ts
+ "G": "http://yacinebeiin.ddns.net:8000/beeeiiin99/beeeiiin99/1
 ",
  "H": "defaultplayer",
  "I": "false", 
