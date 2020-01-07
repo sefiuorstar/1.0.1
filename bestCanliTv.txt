@@ -1229,13 +1229,10 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 
-
 {
                 "A": "3501",
                 "B": "ESPN",
-                "C": "17",
-                "D": 0,
-                "E": "",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
                 "F": "https://sport-tv-guide.live/images/stations/a29.png",
                 "G": "https://ustvgo.tv/player.php?stream=ESPN",
                 "H": "defaultplayer",
@@ -1259,9 +1256,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 {
                 "A": "3501",
                 "B": "ESPN 2",
-                "C": "17",
-                "D": 0,
-                "E": "",
+                "C": "1", "D":"SPORTS TV", "E": "SPORTS TV",
                 "F": "https://sport-tv-guide.live/images/stations/a32.png",
                 "G": "https://ustvgo.tv/player.php?stream=ESPN2",
                 "H": "defaultplayer",
@@ -1276,6 +1271,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "P": 0
              
             }, 
+
 
 
 
