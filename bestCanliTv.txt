@@ -8,6 +8,14 @@
 
 
 
+{"A":"2","B":"AMED TV HD","C":"8","D":"KURDİSH","E":"KURDİSH","F":"https://1.bp.blogspot.com/-EBz79lISJOo/XWRvqehMXgI/AAAAAAAAAPk/6fhBxm0GB0oET_pG5wI6Q1pE68p4FMI1wCLcBGAs/s1600/VkkDoSF.jpg","G":"https://ok.ru/videoembed/1366378946051","H":"defaultplayer","I":"false","J":"staticpattern","K":"[;\](https://vsd[^'\"]*m3u8[^'?\"]*)[?\]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+
+
+
+
+
+
 
 
 { "A": "8",
