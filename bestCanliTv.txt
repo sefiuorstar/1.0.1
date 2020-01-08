@@ -9,7 +9,7 @@
 
 
 
-{"A":"1078","B":"ZDF TV HD","C":"11","D":"GERMANY","E":"GERMANY","F":"https://1.bp.blogspot.com/-VijQ0Ao2gL4/XamrvvyNHOI/AAAAAAAAAXs/zj5VCUvzwCEGwbCjTk5tw_5GfFUgrv53ACLcBGAsYHQ/s1600/PicsArt_10-17-10.18.10.png","G":"http://www.filmon.com/api-v2/channel/1778?protocol=hls","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+{"A":"1078","B":"ZDF TV HD","C":"11","D":"GERMANY","E":"GERMANY","F":"https://1.bp.blogspot.com/-VijQ0Ao2gL4/XamrvvyNHOI/AAAAAAAAAXs/zj5VCUvzwCEGwbCjTk5tw_5GfFUgrv53ACLcBGAsYHQ/s1600/PicsArt_10-17-10.18.10.png","G":"http://www.filmon.com/api-v2/channel/1778?protocol=hls","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 
 
