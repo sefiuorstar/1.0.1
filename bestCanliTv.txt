@@ -8,6 +8,7 @@
 
 
 
+{"A":"1025","B":"BEİN SPORTS 2 HD (YEDEK1)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://3.bp.blogspot.com/-k4ZgiZoQgjQ/XYPMijq2h2I/AAAAAAAAAVw/JO0dWbvgfScfUC6pDCzl4OydHD4T8tR1gCLcBGAsYHQ/s1600/PicsArt_09-19-08.40.16.png","G":"https://app.karsindabebekyok.best/app/kanal/1.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 
 
