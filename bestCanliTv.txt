@@ -7,6 +7,145 @@
 
 
 
+{ "A": "8",
+ "B": "Al Fajer 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455_ico.png?v=1", 
+ "G": "http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Lva.vlc.player", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311459_ico.png?v=1", 
+ "G": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Lva.vlc.player", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
+ "G": "http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Lva.vlc.player", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
+ "G": "http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Lva.vlc.player", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
+ "G": "http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Lva.vlc.player", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {"A":"1078","B":"KSA Sport 1","C":"11","D":"GERMANY","E":"GERMANY","F":"https://gulf365.co/content/uploads/2019/09/05/868162048c.jpg","G":"http://www.filmon.com/api-v2/channel/1781?protocol=hls","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 
