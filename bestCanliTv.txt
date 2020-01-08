@@ -2475,7 +2475,601 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 
+{
+                "A": "3501",
+                "B": "France 2",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a422.png",
+                "G": "https://www.stream4free.live/france-2-direct",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			{
+                "A": "3005",
+                "B": "FRANCE 3",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a625.png",
+                "G": "https://www.stream4free.live/france-3-live",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            }, 
+			{
+                "A": "3005",
+                "B": "FRANCE 4",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a638.png",
+                "G": "https://www.stream4free.live/france-4",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            }, 
+			{
+                "A": "3005",
+                "B": "FRANCE 5",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/france5.jpg",
+                "G": "https://www.stream4free.live/france-5-live",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            }, 
+			
+			{
+                "A": "3005",
+                "B": "TF1",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a418.png",
+                "G": "https://www.stream4free.live/tf1-direct-live-stream",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            }, 
+			{
+                "A": "3005",
+                "B": "M6",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a1138.png",
+                "G": "https://www.stream4free.live/m6-live-streaming",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			
+			{
+                "A": "3005",
+                "B": "C8 LIVE",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a626.png",
+                "G": "https://www.stream4free.live/c8-live",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "W9 LIVE",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a827.png",
+                "G": "https://www.stream4free.live/w9-france",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "TMC",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a623.png",
+                "G": "https://www.stream4free.live/tmc",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            {
+                "A": "3005",
+                "B": "TFX",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/tfx.png",
+                "G": "https://www.stream4free.live/tfx",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            {
+                "A": "3005",
+                "B": "RMC Story",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a1581.png",
+                "G": "https://www.stream4free.live/numero-23",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "NT1",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/nt1.jpg",
+                "G": "https://www.stream4free.live/nt1",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "NRJ 12",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/nrj12.jpg",
+                "G": "https://www.stream4free.live/nrj-12",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "BFM TV",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a1704.png",
+                "G": "https://www.stream4free.live/bfm-tv",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "ARTE",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/arte.png",
+                "G": "https://www.stream4free.live/arte",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "L'équipe 21",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a414.png",
+                "G": "https://www.stream4free.live/l-equipe-21",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "RMC DECOUVERTE",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/rmc.jpg",
+                "G": "https://www.stream4free.live/rmc-decouverte",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "CNEWS INFO",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live/images/avatars/cnews.jpg",
+                "G": "https://www.stream4free.live/cnews",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "National Geo Channel",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png",
+                "G": "https://www.stream4free.live/national-geographic",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "HD1 DIRECT",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live/images/avatars/hd1.jpg",
+                "G": "https://www.stream4free.live/rmc-decouverte",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "TF1 Series Films LIVE",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/tf1series.png",
+                "G": "https://www.stream4free.live/tf1-series-films",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+			{
+                "A": "3005",
+                "B": "Euronews",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live/images/avatars/euronews.jpg",
+                "G": "https://www.stream4free.live/euronews",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            
+            
+       {
+                "A": "3005",
+                "B": "Planète+",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fimages.2Eone.2Eprismamedia.2Ecom.2Fchannel.2F9.2F4.2F5.2F5.2Fc.2F9.2F2.2Fa.2F2.2Fb.2F4.2F4.2Fa.2F1.2F1.2F1.2Epng/60x60/quality/80/planeteplus.png",
+                "G": "https://www.stream4free.live/histoire",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            
+            
+       {
+                "A": "3005",
+                "B": "La chaine Nature",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live/images/avatars/nature.jpg",
+                "G": "https://www.stream4free.live/nature-hd",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            
+       
+       
+                
+       {
+                "A": "3005",
+                "B": "France 24",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/france24.png",
+                "G": "https://www.stream4free.live/france-24",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            
+       
+       
+                       
+       {
+                "A": "3005",
+                "B": "TV5 HD",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://sport-tv-guide.live/images/stations/a1531.png",
+                "G": "https://www.stream4free.live/tv5-hd",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            
+       
+       
+             {
+                "A": "3005",
+                "B": "LCI Chaine Info Direct",
+                "C": "7",
+                "D":"France TV",
+ "E": "FRANCE TV",
+                "F": "https://www.stream4free.live//images/avatars/lci.jpg",
+                "G": "https://www.stream4free.live/lci-chaine-info-direct",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://www.stream4free.live\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+            },
+            
+       
+       
+       
+       
+           
 
+ 
+           
+
+ 
+       
+           
+
+ 
+       
+           
+
+ 
+           
+
+ 
+       
+           
+
+ 
+           
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+       
+           
+
+ 
+           
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
