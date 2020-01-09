@@ -1382,8 +1382,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
  
 
-
-,{ "A": "1", "B": "DSport (UK)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://www.afaqs.com/all/news/images/news_story_grfx/2017/02/49813/DSport-logo.jpg", "G": "http://onvision.info/channels/dsports.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"http://onvision.info/channels/mlbnetwork.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
+,{ "A": "1", "B": "MLB Network", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "https://sport-tv-guide.live/images/tv-station-mlb-network-25.png", "G": "https://ustvgo.tv/player.php?stream=MLB", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=MLB/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }
 
  
 
