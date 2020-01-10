@@ -1123,7 +1123,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "G": "http://http.mine.nu:8086/mama@@**/@@**mama/8089
+ "G": "http://http.mine.nu:8086/live/mama@@**/@@**mama/8087.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
