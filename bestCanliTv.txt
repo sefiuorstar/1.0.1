@@ -3204,9 +3204,6 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 
-
-
-
 {
                 "A": "3501",
                 "B": "E!",
@@ -3332,11 +3329,100 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "P": 0
              
             }, 
+			
+			
+			
+			
+			
+			
+			{
+                "A": "3501",
+                "B": "CMT ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/cmt-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=CMT",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=CMT/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+
+
+
+ {
+                "A": "3501",
+                "B": "Lifetime Movies ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/lifetimeM.jpeg",
+                "G": "https://ustvgo.tv/player.php?stream=LifetimeM",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=LifetimeM/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+
+
+
+ 
+
+ {
+                "A": "3501",
+                "B": "BET ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/bet-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=BET",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=BET/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
 
 
 
  
  
+ {
+                "A": "3501",
+                "B": "DIY  ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/diy.png",
+                "G": "https://ustvgo.tv/player.php?stream=DIY",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=DIY/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
 
  
  
@@ -3344,6 +3430,67 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
  
  
+ {
+                "A": "3501",
+                "B": "VH1  ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/vh1.png",
+                "G": "https://ustvgo.tv/player.php?stream=VH1",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=VH1/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+ 
+ 
+ 
+ {
+                "A": "3501",
+                "B": "MTV",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/mtv.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=MTV",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=MTV/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+ 
+ {
+                "A": "3501",
+                "B": "We TV",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/wetv.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=WETV",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/player.php?stream=WETV/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
  
  
  {
@@ -3364,11 +3511,9 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "P": 0
              
             }, 
- 
- 
- 
- 
- 		
+			
+			
+			
 			
  {
                 "A": "3501",
@@ -3388,8 +3533,1190 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "P": 0
              
             }, 
+			
  
  
+ 
+ 
+ 			
+ {
+                "A": "3501",
+                "B": "Sundance TV",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/sundance-tv.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=SundanceTV",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+ 
+ 			
+ {
+                "A": "3501",
+                "B": "OWN ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/own.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=OWN",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+ 
+ 			
+ {
+                "A": "3501",
+                "B": "Univision ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/univisionlogo.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=Univision",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+ 
+ 
+ 		
+ {
+                "A": "3501",
+                "B": "Telemundo ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Telemundo.png",
+                "G": "https://ustvgo.tv/player.php?stream=Telemundo",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+ 
+ 
+ 
+ 
+ 
+ 		
+ {
+                "A": "3501",
+                "B": "MotorTrend ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Motortrend-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=MotorTrend",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+ 
+ 
+ 		
+ {
+                "A": "3501",
+                "B": "POP ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Pop_Network-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=POP",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+			
+ 
+ 
+ 
+ 		
+ {
+                "A": "3501",
+                "B": "Oxygen ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Oxygen-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=Oxygen",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+
+ 
+ 		
+ {
+                "A": "3501",
+                "B": "TruTV ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/08/TruTV-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=TruTV",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+ 		
+ {
+                "A": "3501",
+                "B": "HBO ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/hbo-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=HBO",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+		
+ {
+                "A": "3501",
+                "B": "Showtime ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/Showtime-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Showtime",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "TCM ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/05/TCM.png",
+                "G": "https://ustvgo.tv/player.php?stream=TCM",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "Starz ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/StarZ-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=StarZ",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "FX ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/fx-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=FX",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "USA Network ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/USA-Network-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=USANetwork",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "Syfy ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/syfy-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=SYFY",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "BBC America ",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/BBC.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=BBCAmerica",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "PBS",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/PBS.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=PBS",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "National Geographic",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/National-Geographic-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=NatGEO",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "NAT GEO WILD",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/NatGeoWild.jpeg",
+                "G": "https://ustvgo.tv/player.php?stream=NatGEOWild",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+  
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "Animal Planet",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/animal-planet.png",
+                "G": "https://ustvgo.tv/player.php?stream=Animal",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Comedy Central",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/comedy-central-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Comedy",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Freeform",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/freeform-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Freeform",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Lifetime",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/Lifetime-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Lifetime",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Food Network",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/food-network-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=FoodNetwork",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "TLC",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/tlc-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=TLC",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Travel",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/Travel-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Travel",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Bravo",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/bravo-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Bravo",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "TV Land",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/TVLand-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=TVLand",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "TBS",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/tbs-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=TBS",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "A&E",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/AE.png",
+                "G": "https://ustvgo.tv/player.php?stream=AE",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "Hallmark Movies & Mysteries",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=HMM",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Hallmark Channel",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=Hallmark",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Disney Channel",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/disney-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=Disney",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+ 
+
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "Investigation Discovery",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/id-269x151.jpg",
+                "G": "https://ustvgo.tv/player.php?stream=ID",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+ 
+
+
+ 	
+ {
+                "A": "3501",
+                "B": "The CW",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/cw-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=CW",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "HGTV",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/HGTV-269x151.png",
+                "G": "https://ustvgo.tv/player.php?stream=HGTV",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "AMC",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/AMC-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=AMC",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "Discovery Channel",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/Discovery.png",
+                "G": "https://ustvgo.tv/player.php?stream=Discovery",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "History Channel",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2019/01/History.png",
+                "G": "https://ustvgo.tv/player.php?stream=History",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+
+ 
+ 	
+ {
+                "A": "3501",
+                "B": "CBS",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2018/10/CBS-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=CBS",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+ 
+	
+ {
+                "A": "3501",
+                "B": "FOX",
+                "C": "1143", "D":"USA TV", "E": "USA TV",
+                "F": "https://ustvgo.tv/wp-content/uploads/2018/10/FOX-1.png",
+                "G": "https://ustvgo.tv/player.php?stream=FOX",
+                "H": "defaultplayer",
+                "I": "false",
+                "J": "pattern",
+                "K": "file: '(.*?)'",
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"https://ustvgo.tv/\"}",
+                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
 
 
 
