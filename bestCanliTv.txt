@@ -36,6 +36,31 @@
 
 
 { "A": "8",
+ "B": "DIRECTV SPORTS",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_", 
+ "G": "https://tucine.xyz:443/live/MiCine/sadasdasddff/191.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "asdsccccc", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
+
+{ "A": "8",
  "B": "Türkmen Sport",
  "C": "1",
  "D":"SPORTS TV",
