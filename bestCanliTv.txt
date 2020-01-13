@@ -13,6 +13,191 @@
 {"A":"1078","B":"KSA Sport 1","C":"11","D":"GERMANY","E":"GERMANY","F":"https://gulf365.co/content/uploads/2019/09/05/868162048c.jpg","G":"http://www.filmon.com/api-v2/channel/14?protocol=hls","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://edge[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 1",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 2",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "http://aldirect.hls.huya.com/backsrc/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 3",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 4",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 5",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 6",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 7",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 { "A": "8",
  "B": "Jackie Chan Movies",
  "C": "1",
