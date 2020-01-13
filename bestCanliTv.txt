@@ -600,13 +600,13 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
 
-{"A":"1261","B":"TİVİBU SPOR 2 HD","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://3.bp.blogspot.com/-CCEz2rtj46k/XhPRxNFyECI/AAAAAAAAA1U/k9ans7EkfG4gUyyQ7T4dZbqN-JbVHXr7wCLcBGAsYHQ/s1600/PicsArt_01-07-01.21.01.png","G":"https://live.bicanlitv.com/inat.php?kanal=TivibuSpor2","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*TivibuSpor2/[^'\"]*)['\"]","L":"","M":"","R":"{\"Referer\":\"https://ecanlitv.co/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+{"A":"1261","B":"TİVİBU SPOR 2 HD","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a649.png","G":"https://live.bicanlitv.com/inat.php?kanal=TivibuSpor2","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*TivibuSpor2/[^'\"]*)['\"]","L":"","M":"","R":"{\"Referer\":\"https://ecanlitv.co/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 
 
 
 
-{"A":"1264","B":"TİVİBU SPOR 3 HD","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://1.bp.blogspot.com/-vVuHtZLL0u4/XhPR7kzhzOI/AAAAAAAAA1Y/UGKQwDmJCSoT_KSWl9xpOcaGWFMlF4TrACLcBGAsYHQ/s1600/PicsArt_01-07-01.29.17.png","G":"https://app.karsindabebekyok.best/app/kanal/35.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+{"A":"1264","B":"TİVİBU SPOR 3 HD","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a668.png","G":"https://app.karsindabebekyok.best/app/kanal/35.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 
  
