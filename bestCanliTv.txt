@@ -610,6 +610,24 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
 
 
  
+
+
+{"A":"1050","B":"S SPORT HD","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a657.png","G":"https://app.karsindabebekyok.best/app/kanal/73.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+
+{"A":"1132","B":"S SPORT 2 TV HD","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a1693.png","G":"https://ok.ru/videoembed/1443449740826","H":"defaultplayer","I":"false","J":"staticpattern","K":"[;\](https://vsd[^'\"]*m3u8[^'?\"]*)[?\]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+
+
+
+{"A":"1054","B":"SMARTSPOR HD ","C": "1", "D":"SPORTS TV", "E": "SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a654.png","G":"https://app.karsindabebekyok.best/app/kanal/75.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+
+
+
+
+
+
  
 
 
