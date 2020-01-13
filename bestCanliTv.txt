@@ -17,7 +17,6 @@
 
 
 
-
 { "A": "8212",
  "B": "LIVE MOVIES 1",
  "C": "145",
@@ -132,7 +131,7 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+ "G": "http://aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -156,7 +155,7 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+ "G": "http://aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -167,6 +166,28 @@
  "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
