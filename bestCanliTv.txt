@@ -225,7 +225,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_", 
- "G": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+ "G": "http://pwiptv.net/free/stream-live.php/video.m3u8?url\u003d4974\u0026line\u003dBeinmyhd.m3u\u0026user\u003dBeinMyhd\u0026pass\u003dBeinMyhd
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -233,7 +233,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://m.huya.com/11342386?from=cuowuye&from=cuowuye&from=cuowuye/\"}",
+ "R":"",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
 
