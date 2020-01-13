@@ -225,7 +225,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_", 
- "G": "http://pwiptv.net/free/stream-live.php/video.m3u8?url\u003d4974\u0026line\u003dBeinmyhd.m3u\u0026user\u003dBeinMyhd\u0026pass\u003dBeinMyhd
+ "G": "http://pwiptv.net/free/stream-live.php/video.m3u8?url=4974&line=Beinmyhd.m3u&user=BeinMyhd&pass=BeinMyhd
 ",
  "H": "defaultplayer",
  "I": "false", 
