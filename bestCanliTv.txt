@@ -23,7 +23,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
- "G": "http://xxx1.trainer.pw/mubasher1/trainer.m3u8
+ "G": "http://xxx3.trainer.pw/mubasher1/trainer.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
