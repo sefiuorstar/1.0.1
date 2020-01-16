@@ -26,8 +26,8 @@
                   ]
                 },
                 {
-                  "format": "m3u8",
-                  "url": "http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8|http-user-agent=Lavf/56.15.102",
+                  "format": "web",
+                  "url": "http://www.elahmad.com/tv/mobiletv/bein_tv.php?id=bein1",
                   "extra_info": []
                 }
               ],
