@@ -635,7 +635,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "L": "",
                 "M": "",
                 "R": "{\"Referer\":\"https://dailysport.pw/c1.php\"}",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
