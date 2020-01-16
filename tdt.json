@@ -32,7 +32,7 @@
                 }
               ],
               "extra_info": [
-                "GEO"
+                
               ]
             },
             {
@@ -46,7 +46,7 @@
                   "format": "m3u8",
                   "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
                   "extra_info": [
-                    "GEO"
+                    
                   ]
                 },
                 {
