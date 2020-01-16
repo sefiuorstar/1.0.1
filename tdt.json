@@ -27,7 +27,7 @@
                 },
                 {
                   "format": "m3u8",
-                  "url": "http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8",
+                  "url": "http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8|http-user-agent=Lavf/56.15.102",
                   "extra_info": []
                 }
               ],
