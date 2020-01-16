@@ -48,6 +48,32 @@
 
 
 
+{ "A": "8",
+ "B": "qanat Sport",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
+ "G": "195.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://qanat.tv/?WlowMQ/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
+
+
+
+
+
+
+
+
 
 
 
