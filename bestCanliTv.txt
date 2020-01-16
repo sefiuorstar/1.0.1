@@ -54,7 +54,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
- "G": "195.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+ "G": "http://195.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
