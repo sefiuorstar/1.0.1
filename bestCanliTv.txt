@@ -652,7 +652,7 @@
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://imgs1.e-droid.net/srv/imgs/seccs/8682850_ico.png?v=1", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/8747185_ico.png?v=1", 
  "G": "http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8  
 ",
  "H": "defaultplayer",
