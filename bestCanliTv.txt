@@ -631,7 +631,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
-                "K": "",
+                "K": "['\"](http[^'\"]*m3u8[^'\"]*)['\"]",
                 "L": "",
                 "M": "",
                 "R": "{\"Referer\":\"https://dailysport.pw/c1.php\"}",
