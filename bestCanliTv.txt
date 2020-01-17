@@ -570,6 +570,91 @@
 
 
 
+{ "A": "8",
+ "B": "Al Fajer 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
+ "G": "http://beryantv.com:25461/live/82419281798184/82419281798184/833.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "beryantv00250", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
+ "G": "http://beryantv.com:25461/live/82419281798184/82419281798184/834.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "beryantv00250", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
+ "G": "http://beryantv.com:25461/live/82419281798184/82419281798184/835.m3u8  
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "beryantv00250", "O": "",
+ "P": 0 },
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
