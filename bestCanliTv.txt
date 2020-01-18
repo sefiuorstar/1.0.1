@@ -729,11 +729,11 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                  "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "https://dailysport.pw/c1.php",
+                "G": "https://dailysport99.global.ssl.fastly.net/http/002/playlist.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
-                "K": "['\"](http[^'\"]*m3u8[^'\"]*)['\"]",
+                "J": "direct",
+                "K": "",
                 "L": "",
                 "M": "",
                 "R": "{\"Referer\":\"https://dailysport.pw/c1.php\"}",
@@ -742,6 +742,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
                 "P": 0
              
             }, 
+
 
 
 
