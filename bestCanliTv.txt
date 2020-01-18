@@ -72,6 +72,34 @@
 
 
 
+{ "A": "8",
+ "B": "Cstream5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
+ "G": "https://cstream5.com/hls/beinsports1_ar.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://http.cstream5.com/player.html?url=aHR0cHM6Ly9jc3RyZWFtNS5jb20vaGxzL2JlaW5zcG9ydHMxX2FyLm0zdTg=/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
+
+
+
+
+
+
+
+
+
+
 
 
 
