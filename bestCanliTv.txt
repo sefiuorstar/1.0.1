@@ -20,14 +20,13 @@
 
 
 
-
 { "A": "8",
  "B": "qanat Sport",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
- "G": "https://e7.cdn4.us/ingest666/espn2_sur.m3u8
+ "G": "http://sports24.club/hls/bein1.mpd
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -35,11 +34,10 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://sportsbay.org/watch/54014/1/espn-2-sur-live.html/\"}",
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=beinusa/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
-
-
+ 
 
 
 
