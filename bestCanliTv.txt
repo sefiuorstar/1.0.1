@@ -6,6 +6,63 @@
 ],"Y":[
 
 
+
+{ "A": "8",
+ "B": "ESPNU",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a308.png", 
+ "G": "http://cdn.sports24.win/espnu.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espnu/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{ "A": "8",
+ "B": "ESPN Deportes",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a58.png", 
+ "G": "http://sports24.club/espn/get.m3u8?ch=espndep
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espndep/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {"A":"1078","B":"BBC 1","C":"11","D":"UK TV","E":"UK TV","F":"https://sport-tv-guide.live/images/stations/a102.png","G":"https://dailysport.pw/c1.php","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 
