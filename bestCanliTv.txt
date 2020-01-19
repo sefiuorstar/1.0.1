@@ -7,6 +7,85 @@
 
 
 
+
+{ "A": "8",
+ "B": "FS Deportes",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a62.png", 
+ "G": "http://cdn.sports24.win/fsdep.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=fsdep/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{ "A": "8",
+ "B": "FOX Soccer Plus",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a56.png", 
+ "G": "http://cdn.sports24.win/fsp.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=fsp/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+ 
+ 
+  
+ 
+{ "A": "8",
+ "B": "Fox Sports North",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a83.png", 
+ "G": "http://hlslinear-akc.clt2.media.foxsportsgo.com/hdnts=exp=1579432515~acl=/*~id=d4e258ac-6b82-4112-858a-4cb11c20eb10-127343-a7ed5ea3d09b77b362716fbd71fb67e5f85efaa0~hmac=184a663a49d10dfd705095c9dafcfc4abfb5b8f86a9ad813ddee5f8a82607e4e/a88b8db1353c8d8733d7d7b82044c494/ls01/foxsports/FOXSPORTS_LINEAR_105/live/master_wired_web_ads.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/fox/v?id=fsn/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+ 
+
+
+
+
+
+
+
+
+
+
 { "A": "8",
  "B": "ESPNU",
  "C": "1",
