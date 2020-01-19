@@ -51,14 +51,123 @@
  "P": 0 },
 
 
+ 
+ 
+  
+ 
+{ "A": "8",
+ "B": "ESPN Sur",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://cdn.livesoccertv.com/images/channels/thumbnails/espn-sur.gif", 
+ "G": "http://sports24.club/espn/get.m3u8?ch=espnsur
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espnsur/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
 
 
+ 
+  
+ 
+{ "A": "8",
+ "B": "ESPN 2 Sur",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://cdn.livesoccertv.com/images/channels/thumbnails/espn-sur.gif", 
+ "G": "http://sports24.club/espn/get.m3u8?ch=espn2sur
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espn2sur/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
 
 
+ 
+  
+ 
+{ "A": "8",
+ "B": "ESPN 3 Sur",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://cdn.livesoccertv.com/images/channels/thumbnails/espn-sur.gif", 
+ "G": "http://sports24.club/espn/get.m3u8?ch=espn3sur
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espn3sur/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
 
 
+   
+ 
+{ "A": "8",
+ "B": "ESPN Brasil",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1232.png", 
+ "G": "https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/playlist_sleng.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espnbr/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
 
 
+ 
+ 
+  
+{ "A": "8",
+ "B": "ESPN News",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/tv-station-espn-news-72.png", 
+ "G": "http://cdn.sports24.win/espnews.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/espn/v?id=espnews/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
