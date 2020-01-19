@@ -7,7 +7,6 @@
 
 
 
-
 { "A": "8",
  "B": "FS Deportes",
  "C": "1",
@@ -75,6 +74,131 @@
  "P": 0 },
 
 
+ 
+  
+ 
+{ "A": "8",
+ "B": "Fox Sports West",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a40.png", 
+ "G": "http://hlslinear-akc.clt2.media.foxsportsgo.com/hdnts=exp=1579432515~acl=/*~id=d4e258ac-6b82-4112-858a-4cb11c20eb10-127343-a7ed5ea3d09b77b362716fbd71fb67e5f85efaa0~hmac=184a663a49d10dfd705095c9dafcfc4abfb5b8f86a9ad813ddee5f8a82607e4e/1ca5b7370614572a1f019dd49dbe5ef8/ls01/foxsports/FOXSPORTS_LINEAR_206/live/master_wired_web_ads.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/fox/v?id=fsw/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+ 
+  
+ 
+{ "A": "8",
+ "B": "Fox Sports 1 Brasil",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1236.png", 
+ "G": "https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/playlist_sleng.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=foxsports1br/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+   
+ 
+{ "A": "8",
+ "B": "Skynet Sports HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a272.png", 
+ "G": "http://sports24.club/hls/mg.m3u8?id=03_skynetsporthd_720p
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=skynethd/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+ 
+ 
+  
+{ "A": "8",
+ "B": "SBS Sports Korea",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://www.pinclipart.com/picdir/big/128-1284142_news-clipart-tv-broadcasting-sbs-seoul-broadcasting-system.png", 
+ "G": "http://122.129.115.21:1935/liveedge2/_definst_/espn/playlist.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=sbssports/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
 
