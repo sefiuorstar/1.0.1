@@ -133,7 +133,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"http://sports24.club/tv/v?id=skynethd/\"}",
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=skynethd/\}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
 
