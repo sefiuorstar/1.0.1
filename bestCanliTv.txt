@@ -7,6 +7,31 @@
 
 
 
+ 
+{ "A": "8",
+ "B": "Skynet Sports HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a272.png", 
+ "G": "http://sports24.club/hls/mg.m3u8?id=03_skynetsporthd_720p
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://sports24.club/tv/v?id=skynethd/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
 { "A": "8",
  "B": "FS Deportes",
  "C": "1",
