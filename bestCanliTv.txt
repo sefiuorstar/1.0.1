@@ -257,7 +257,8 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://yt3.ggpht.com/a-/AAuE7mCj-qGdiq2__8osO1BL8EtzGNEXMXHdqTYTuA=s240-mo-c-c0xffffffff-rj-k-no", 
- "G": "http://fr-c.movply.stream/hls/sony-ten-3-hd.m3u8
+ "G": "http://163.172.85.133:8080/TenS/3/index.m3u8
+
 ",
  "H": "defaultplayer",
  "I": "false", 
