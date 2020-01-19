@@ -21,6 +21,30 @@
 
 
 
+{ "A": "8",
+ "B": "qanat Sport",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
+ "G": "https://e7.cdn4.us/ingest666/espn2_sur.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://sportsbay.org/watch/54014/1/espn-2-sur-live.html/\"}",
+ "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
 
 
 {"A":"1144","B":"DİYANET TV HD","C":"12","D":"DİNİ KANALLAR","E":"DİNİ KANALLAR","F":"https://1.bp.blogspot.com/-mWVstD0cuH4/XdGtCen-pcI/AAAAAAAAAk0/q_lyB15z1dM4FEMiZd3MFH-8s-CuVJ1KwCLcBGAsYHQ/s1600/PicsArt_11-17-08.59.49.png","G":"http://sports24.club/espn/v?id=espn2","H":"defaultplayer","I":"false","J":"staticpattern","K":"src\"\:\"(.*m3u8)['\"]","L":"http:","M":"","R":"{\"Referer\":\"http://sports24.club/espn/v?id=espn2/\"}",
