@@ -2031,7 +2031,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
  ,
  
- { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "https://08sportbar.com/mfootball1.html", "H": "defaultplayer", "I": "false", "J": "graphm3u8", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/mfootball1.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
+ { "A": "1", "B": "Match Futbol 1 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2019-05/1558356314_match-futbol-1.png", "G": "https://channels247.net/mfootball1.html", "H": "defaultplayer", "I": "false", "J": "graphm3u8", "K": "", "L": "", "M": "", "R": "{\"Referer\":\"https://channels247.net/mfootball1.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
   
   { "A": "1", "B": "Match Futbol 2 (RUS)", "C": "1", "D":"SPORTS TV", "E":"SPORTS TV", "F": "http://tivix.co/uploads/posts/2016-05/1463984515_match-futbol-2.png", "G": "https://sport7.biz/698c9b6bee9a4fa5336708c17e462968-live.html", "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]", "L": "", "M": "", "R": "{\"Referer\":\"https://08sportbar.com/rumatchf2.html/\"}", "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "25.04.2017 05:55:09", "P": 0 }, 
   
