@@ -1190,7 +1190,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
- "G": "http://vstream3.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8  
+ "G": "http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1216,7 +1216,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
- "G": "http://vstream3.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8  
+ "G": "http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1242,7 +1242,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
- "G": "http://vstream3.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8  
+ "G": "http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
