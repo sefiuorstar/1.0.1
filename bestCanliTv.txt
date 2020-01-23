@@ -10,6 +10,8 @@
 
 
 
+
+
 { "A": "8",
  "B": "MAX Sport 1",
  "C": "1",
@@ -28,6 +30,180 @@
 "O":"",
 "P":0},
 
+ 
+
+ 
+
+
+{ "A": "8",
+ "B": "MAX Sport 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1435.png", 
+ "G": "http://www.seirsanduk.com/hd-max-sport-2-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+ 
+{ "A": "8",
+ "B": "MAX Sport 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1608.png", 
+ "G": "http://www.seirsanduk.com/hd-max-sport-3-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+
+ 
+{ "A": "8",
+ "B": "MAX Sport 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1834.png", 
+ "G": "http://www.seirsanduk.com/hd-max-sport-4-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+
+
+ 
+{ "A": "8",
+ "B": "Diema Sport",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1059.png", 
+ "G": "http://www.seirsanduk.com/hd-diema-sport-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+ 
+
+ 
+{ "A": "8",
+ "B": "Diema Sport 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1060.png", 
+ "G": "http://www.seirsanduk.com/hd-diema-sport-2-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+ 
+{ "A": "8",
+ "B": "Nova Sport",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1058.png", 
+ "G": "http://www.seirsanduk.com/hd-nova-sport-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+ 
+
+ 
+{ "A": "8",
+ "B": "Ring Sport",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1672.png", 
+ "G": "http://www.seirsanduk.com/hd-ring-bg-hd-online
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R":"",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 
  
