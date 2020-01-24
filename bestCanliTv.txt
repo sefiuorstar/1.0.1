@@ -245,7 +245,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a62.png", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/Live.m3u8
+ "G": "http://skdn.redi-vo.com/iptv/ch111?code=103133554440512&key=42857
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -253,7 +253,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/Live.m3u8/\"}",
+ "R":"{\"Referer\":\"http://skdn.redi-vo.com/iptv/ch111?code=103133554440512&key=42857/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
  
