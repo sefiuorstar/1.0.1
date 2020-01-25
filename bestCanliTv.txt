@@ -8,7 +8,6 @@
 
 
 
-
 { "A": "8",
  "B": "(server2)Bein HD 1",
  "C": "1",
@@ -19,7 +18,7 @@
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", 
@@ -42,7 +41,7 @@
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R": "{\"Referer\":\"http://qanat.tv/?WlowMg\"}",
@@ -68,7 +67,7 @@
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R": "{\"Referer\":\"http://qanat.tv/?WlowMw\"}",
@@ -92,7 +91,7 @@
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R": "{\"Referer\":\"http://qanat.tv/?WlowNA\"}",
@@ -114,7 +113,7 @@
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R": "{\"Referer\":\"http://qanat.tv/?WlowNQ\"}",
@@ -138,7 +137,7 @@
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R": "{\"Referer\":\"http://qanat.tv/?WlowNg\"}",
@@ -146,6 +145,8 @@
 "O":"",
 "P":0},
   
+
+
 
 
 
