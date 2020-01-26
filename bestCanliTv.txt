@@ -234,7 +234,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
- "G": "view-source:http://www.seirsanduk.com/hd-max-sport-1-hd-online
+ "G": "http://www.seirsanduk.com/hd-max-sport-1-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
