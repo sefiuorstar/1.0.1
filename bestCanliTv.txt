@@ -17,6 +17,27 @@
 
 
 
+{ "A": "8",
+ "B": "247 Retro",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://www.247retro.com/images/sidebar_logo_gradient.jpg", 
+ "G": "http://www.247retro.com
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "{\"Referer\":\"http://www.247retro.com/\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+
 
 
 
