@@ -8,6 +8,30 @@
 
 
 
+
+{ "A": "8",
+ "B": "MAX Sportxxx 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
+ "G": "http://c6.yayin.pw/web/1/www.sporizle.pw/c3/1580155139/KkY-Dx_eiaPfnx7q2MghIw/11085.m3u8
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "{\"Referer\":\"https://www.sporizle.pw/embed/xxx2-izle/\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+ 
+
+
+
+
 { "A": "8",
  "B": "MAX Sportxxx 1",
  "C": "1",
