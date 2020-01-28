@@ -15,7 +15,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
- "G": "http://c3.yayin.pw/web/1/www.sporizle.pw/c3/1580230615/-XvufXzpC0ClI4V0IgQqhg/11085.m3u8
+ "G": "http://c3.yayin.pw:8443/web/1/www.sporizle.pw/c3/1580230615/-XvufXzpC0ClI4V0IgQqhg/11085.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -38,7 +38,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
- "G": "http://c3.yayin.pw/web/1/www.sporizle.pw/c3/1580155139/KkY-Dx_eiaPfnx7q2MghIw/11084.m3u8
+ "G": "http://c3.yayin.pw:8443/web/1/www.sporizle.pw/c3/11084.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
