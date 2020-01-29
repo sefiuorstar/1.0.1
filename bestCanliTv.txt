@@ -445,7 +445,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1059.png", 
- "G": "http://www.seirsanduk.com/hd-diema-sport-hd-online
+ "G": "http://seirsanduk.us/hd-diema-sport-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -468,7 +468,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1060.png", 
- "G": "http://www.seirsanduk.com/hd-diema-sport-2-hd-online
+ "G": "http://seirsanduk.us/hd-diema-sport-2-hd-online
 ",
   "H": "defaultplayer",
  "I": "false", 
