@@ -513,6 +513,21 @@
  
  
 
+{"A":"853","B":"Sky Premier League","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-nova-sport-2-564.png","G":"http://95.170.215.118:80/hls/m3u8/NOVA-Sport-2.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0}
+ 
+ 
+ 
+ 
+ 
+  
+  
+ , 
+
+
+
+
+
+
  
 { "A": "8",
  "B": "Ring Sport",
