@@ -2272,7 +2272,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
 
 
-{"A":"9","B":"Idman TV","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-az-idman-tv-1189.png","G":"http://www.hdtvler.tv/idman-tv/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\": \"http://www.hdtvler.tv/idman-tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"21.07.2019 11:44:07","P":0},
+{"A":"9","B":"Idman TV","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/tv-station-az-idman-tv-1189.png","G":"https://livetv.az/channels/show?channel=Idman","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\": \"https://livetv.az/channels/show?channel=Idman/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"21.07.2019 11:44:07","P":0},
 
 {"A":"10","B":"CBC Sport","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a1188.png","G":"http://85.132.53.55/azerbaijan/cbc_sport_hd/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\": \"https://www.ecanlitvizle.live/cbc-sport-az-tv/\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"21.07.2019 11:44:07","P":0},
 
