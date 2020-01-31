@@ -17,6 +17,92 @@
 
 
 
+{ "A": "5458",
+ "B": "Kujtesa Sport 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1855.png", 
+ "G": "http://89.163.251.146:25461/GT/Shqip/445
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"gtshqiptv",
+"O":"",
+"P":0},
+
+ 
+
+
+
+
+
+{ "A": "5348",
+ "B": "Kujtesa Sport 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
+ "G": "http://89.163.251.146:25461/GT/Shqip/444
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"gtshqiptv",
+"O":"",
+"P":0},
+
+ 
+
+{ "A": "53458",
+ "B": "Kujtesa Sport 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1857.png", 
+ "G": "http://89.163.251.146:25461/GT/Shqip/443",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"gtshqiptv",
+"O":"",
+"P":0},
+
+ 
+
+{ "A": "53468",
+ "B": "Kujtesa Sport 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
+ "G": "http://89.163.251.146:25461/GT/Shqip/442",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"gtshqiptv",
+"O":"",
+"P":0},
+
+ 
+
+
+
+
+
 
 { "A": "8",
  "B": "MAX Sportxxx 2",
