@@ -17,13 +17,17 @@
 
 
 
+
+
+
+
 { "A": "5458",
  "B": "Kujtesa Sport 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1855.png", 
- "G": "http://89.163.251.146:25461/GT/Shqip/445
+ "G": "http://89.163.251.146:25461/live/GT/Shqip/445.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -47,7 +51,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
- "G": "http://89.163.251.146:25461/GT/Shqip/444
+ "G": "http://89.163.251.146:25461/live/GT/Shqip/444.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -67,7 +71,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1857.png", 
- "G": "http://89.163.251.146:25461/GT/Shqip/443",
+ "G": "http://89.163.251.146:25461/live/GT/Shqip/443.m3u8",
   "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -86,7 +90,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
- "G": "http://89.163.251.146:25461/GT/Shqip/442",
+ "G": "http://89.163.251.146:25461/live/GT/Shqip/442.m3u8",
   "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
@@ -99,53 +103,10 @@
 
  
 
-
-
-
-
-
-{ "A": "8",
- "B": "MAX Sportxxx 2",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
- "G": "http://c3.yayin.pw:8443/web/1/www.sporizle.pw/c3/1580230615/-XvufXzpC0ClI4V0IgQqhg/11085.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R": "{\"Referer\":\"https://www.sporizle.pw/embed/xxx2-izle/\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
  
 
 
 
-
-{ "A": "8",
- "B": "MAX Sportxxx 1",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a1445.png", 
- "G": "http://c3.yayin.pw:8443/web/1/www.sporizle.pw/c3/11084.m3u8
-",
-  "H": "defaultplayer",
- "I": "false", 
- "J": "direct", 
- "K": "", 
- "L": "",
- "M": "", "R": "{\"Referer\":\"https://www.sporizle.pw/embed/xxx1-izle/\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"",
-"P":0},
-
- 
 
 
 
