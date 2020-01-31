@@ -1848,7 +1848,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
- "G": "http://beryantv.com:25461/live/08413041201104/08413041201104/833.m3u8  
+ "G": "http://beryantv.com:25461/live/78917097987874/78917097987874/833.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1874,7 +1874,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
- "G": "http://beryantv.com:25461/live/08413041201104/08413041201104/834.m3u8  
+ "G": "http://beryantv.com:25461/live/78917097987874/78917097987874/834.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1900,7 +1900,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
- "G": "http://beryantv.com:25461/live/08413041201104/08413041201104/835.m3u8  
+ "G": "http://beryantv.com:25461/live/78917097987874/78917097987874/835.m3u8  
 ",
  "H": "defaultplayer",
  "I": "false", 
