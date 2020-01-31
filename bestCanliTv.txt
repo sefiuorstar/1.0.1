@@ -19,6 +19,96 @@
 
 
 
+{ "A": "54458",
+ "B": "TRING SPORT 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a686.png", 
+ "G": "https://albkanale.com/albkanale/t1.m3u8
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"tv.topkanale.al/1.0 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4",
+"O":"",
+"P":0},
+
+ 
+
+
+
+
+{ "A": "554458",
+ "B": "TRING SPORT 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a687.png", 
+ "G": "https://albkanale.com/albkanale/t2.m3u8
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"tv.topkanale.al/1.0 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4",
+"O":"",
+"P":0},
+
+ 
+
+
+{ "A": "564458",
+ "B": "TRING SPORT 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a688.png", 
+ "G": "https://albkanale.com/albkanale/t3.m3u8
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"tv.topkanale.al/1.0 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4",
+"O":"",
+"P":0},
+
+ 
+
+
+{ "A": "54458",
+ "B": "TRING SPORT 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a689.png", 
+ "G": "https://albkanale.com/albkanale/t4.m3u8
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "",
+"N":"tv.topkanale.al/1.0 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4",
+"O":"",
+"P":0},
+
+ 
+
+
+
+
+
+
 
 
 { "A": "5458",
