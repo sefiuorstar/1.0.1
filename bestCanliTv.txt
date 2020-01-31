@@ -3338,19 +3338,17 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  
  
 
-
-,{"A":"17","B":"FOX Sports 1 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a60.png","G":"http://rucache.maxcdn.live/live/fs1/playlist.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/fox-sports-1/
+,{"A":"17","B":"FOX Sports 1 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a60.png","G":"https://ustvgo.tv/player.php?stream=FS1
+","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://ustvgo.tv/player.php?stream=FS1/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
   
   
 
 
-,{"A":"17","B":"FOX Sports 2 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a61.png","G":"http://rucache.maxcdn.live/live/fs2/playlist.m3u8
-","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"http://123tvnow.com/watch/fox-sports-2/
+,{"A":"17","B":"FOX Sports 2 (US)","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a61.png","G":"https://ustvgo.tv/player.php?stream=FS2
+","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://ustvgo.tv/player.php?stream=FS2/
 \"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
   
- 
 
 
 
