@@ -51,7 +51,7 @@
  "K": "", 
  "L": "",
  "M": "", "R": "",
-"N":"tv.topkanale.al/1.0 (Linux;Android 8.0.0) ExoPlayerLib/2.8.4",
+"N":"gtshqiptv",
 "O":"",
 "P":0},
 
