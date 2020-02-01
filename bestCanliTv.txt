@@ -17,7 +17,7 @@
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "https://live.bicanlitv.com/cdn/v1.php",
-                "H": "defaultplayer",
+                "H": "webplayer",
                 "I": "false",
                 "J": "direct",
                 "K": "",
