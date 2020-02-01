@@ -19,7 +19,7 @@
                 "G": "https://live.bicanlitv.com/cdn/v1.php",
                 "H": "defaultplayer",
                 "I": "false",
-                "J": "graphm3u8",
+                "J": "direct",
                 "K": "",
                 "L": "",
                 "M": "",
