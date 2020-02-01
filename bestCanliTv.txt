@@ -1089,7 +1089,105 @@
  
  
  
- 
+ {"A":"231","B":"A SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/a-spor.png","G":"https:\/\/securevideotoken.tmgrup.com.tr\/webtv\/secure?url=https:\/\/trkvz-live.ercdn.net\/asporhd\/asporhd.m3u8","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https:\/\/www.aspor.com.tr\/webtv\/canli-yayin\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:03:14","P":0},
+
+
+
+{"A":"284","B":"A SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/a-spor.png","G":"http:\/\/web.canlitvlive.io\/izle\/aspor-hd-canli.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:03:18","P":0},
+
+
+
+{"A":"63","B":"BEIN SPORTS HABER","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/beinsports-haber.png","G":"http:\/\/web.canlitvlive.io\/izle\/bein-sports-haber.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"16.11.2019 22:34:06","P":0},{"A":"182","B":"FANAT\u0130K TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/fanatik-tv.png","G":"https:\/\/mn-nl.mncdn.com\/fanatik_livestream\/smil:fanatik.smil\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"07.12.2019 09:28:27","P":0},
+
+
+
+{"A":"62","B":"FB TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/fb-tv.png","G":"http:\/\/web.canlitvlive.io\/izle\/fb-tv.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"16.11.2019 22:33:42","P":0},{"A":"180","B":"GS TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/gs-tv.png","G":"https:\/\/galatasaray.com","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.11.2019 14:46:50","P":0},{"A":"329","B":"SPORTS TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/sports-tv.png","G":"https:\/\/mn-nl.mncdn.com\/blutv_sportstv\/smil:sportstv_sd.smil\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:03:56","P":0},
+
+
+{"A":"285","B":"SPORTS TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/sports-tv.png","G":"http:\/\/web.canlitvlive.io\/izle\/sports-tv.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:03:48","P":0},
+
+
+
+{"A":"330","B":"TAY TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/tay-tv.png","G":"https:\/\/mn-nl.mncdn.com\/blutv_taytv\/smil:taytv_sd.smil\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:04:21","P":0},
+
+
+{"A":"286","B":"TAY TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/tay-tv.png","G":"http:\/\/web.canlitvlive.io\/izle\/tay-tv.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0 Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:04:14","P":0},{"A":"66","B":"T\u0130V\u0130BU SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/tivibu-spor.png","G":"http:\/\/dl1.webtv.ttnet.com.tr\/konf\/mob\/web16009.isml\/manifest(format=m3u8-aapl).m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"27.11.2019 12:12:02","P":0},
+
+
+
+{"A":"331","B":"TJK TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/tjk.png","G":"https:\/\/mn-nl.mncdn.com\/blutv_tjktv\/smil:tjktv_sd.smil\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:05:14","P":0},{"A":"61","B":"TJK TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/tjk.png","G":"http:\/\/tjktv.ercdn.net\/tjktv.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:05:05","P":0},
+
+
+
+{"A":"327","B":"TRT SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/trt-spor.png","G":"https:\/\/mn-nl.mncdn.com\/blutv_trtspor\/smil:trtspor_hd.smil\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:02:47","P":0},{"A":"226","B":"TRT SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/trt-spor.png","G":"https:\/\/trtcanlitv-lh.akamaihd.net\/i\/TRTSPOR1_1@182042\/master.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:02:52","P":0},
+
+
+
+{"A":"287","B":"TRT SPOR","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/trt-spor.png","G":"http:\/\/web.canlitvlive.io\/izle\/trt-3-spor.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"20.12.2019 21:02:56","P":0},{"A":"65","B":"TRT SPOR 2","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/trt-spor-2.png","G":"https:\/\/trtcanlitv-lh.akamaihd.net\/i\/TRTSPOR2_1@783031\/master.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"07.12.2019 09:30:21","P":0},
+
+
+
+{"A":"64","B":"YEN\u0130 MALATYASPOR TV","C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"http:\/\/cdn.asalhosting.com\/images\/yeni-malatya-spor.png","G":"https:\/\/592f1881b3d5f.streamlock.net:1443\/santraltv_925\/santraltv_925\/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/78.0.3904.108 Safari\/537.36 OPR\/65.0.3467.72","O":"07.12.2019 09:30:26","P":0},
+
+
+
+
+
+
  
  
  
