@@ -17,18 +17,17 @@
 
 
 
-
 { "A": "8",
  "B": "Bein HD 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be1.png", 
- "G": "http://137.117.88.131:25500/live/akoush/akoush/15.ts
+ "G": "http://137.117.88.131:25500/live/akoush/akoush/15.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -46,11 +45,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://137.117.88.131:25500/live/akoush/akoush/16.ts
+ "G": "http://137.117.88.131:25500/live/akoush/akoush/16.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -72,11 +71,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be3.png", 
-"G": "http://137.117.88.131:25500/live/akoush/akoush/18.ts
+"G": "http://137.117.88.131:25500/live/akoush/akoush/18.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -96,11 +95,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be4.png", 
-"G": "http://137.117.88.131:25500/live/akoush/akoush/55.ts
+"G": "http://137.117.88.131:25500/live/akoush/akoush/55.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -118,11 +117,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be5.png", 
- "G": "http://137.117.88.131:25500/live/akoush/akoush/20.ts
+ "G": "http://137.117.88.131:25500/live/akoush/akoush/20.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -142,11 +141,11 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://137.117.88.131:25500/live/akoush/akoush/142.ts
+ "G": "http://137.117.88.131:25500/live/akoush/akoush/142.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -164,11 +163,11 @@
 
 
 
- {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/138.ts
+ {"A":"14","B":"Bein 7 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be7.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/138.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -177,11 +176,11 @@
 "P":0},
 
 
- {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/139.ts
+ {"A":"15","B":"Bein 8 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be8.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/139.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -189,11 +188,11 @@
 "O":"",
 "P":0},
  
- {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/140.ts
+ {"A":"16","B":"Bein 9 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be9.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/140.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
@@ -203,17 +202,20 @@
  
  
  
- {"A":"17","B":"Bein 10 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/141.ts
+ {"A":"17","B":"Bein 10 HD","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"http://wssfree.com/WSSv2.3/images/be10.png", "G": "http://137.117.88.131:25500/live/akoush/akoush/141.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
 "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
 "O":"",
 "P":0},
+ 
+ 
+ 
  
  
  
