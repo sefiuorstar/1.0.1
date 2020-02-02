@@ -8,87 +8,131 @@
 
 
 
-{ "A": "5458",
- "B": "Kujtesa Sport 1",
+ 
+ { "A": "8",
+ "B": "Al Fajer 1",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a1855.png", 
- "G": "http://iptv.ndasat.com:88/live/671745374304719/671745374304719/4899.m3u8
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455_ico.png?v=1", 
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/21.m3u8  
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R": "",
-"N":"gtshqiptv",
-"O":"",
-"P":0},
-
+ "M": "", 
+ "R":"",
+ "N": "king", "O": "",
+ "P": 0 },
+ 
  
 
 
 
 
 
-{ "A": "5348",
- "B": "Kujtesa Sport 2",
+
+
+{ "A": "8",
+ "B": "Al Fajer 2",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a1856.png", 
- "G": "http://iptv.ndasat.com:88/live/671745374304719/671745374304719/4898.m3u8
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311459_ico.png?v=1", 
+ "G": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8  
 ",
-  "H": "defaultplayer",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R": "",
-"N":"gtshqiptv",
-"O":"",
-"P":0},
-
+ "M": "", 
+ "R":"",
+ "N": "Lva.vlc.player", "O": "",
+ "P": 0 },
+ 
  
 
-{ "A": "53458",
- "B": "Kujtesa Sport 3",
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 3",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a1857.png", 
- "G": "http://iptv.ndasat.com:88/live/671745374304719/671745374304719/4897.m3u8",
-  "H": "defaultplayer",
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047872_ico.png?v=1", 
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/23.m3u8
+",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R": "",
-"N":"gtshqiptv",
-"O":"",
-"P":0},
-
+ "M": "", 
+ "R":"",
+ "N": "king", "O": "",
+ "P": 0 },
+ 
  
 
-{ "A": "53468",
- "B": "Kujtesa Sport 4",
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 4",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://sport-tv-guide.live/images/stations/a1858.png", 
- "G": "http://iptv.ndasat.com:88/live/671745374304719/671745374304719/4896.m3u8",
-  "H": "defaultplayer",
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047874_ico.png?v=1", 
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/24.m3u8
+",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
  "L": "",
- "M": "", "R": "",
-"N":"gtshqiptv",
-"O":"",
-"P":0},
-
+ "M": "", 
+ "R":"",
+ "N": "king", "O": "",
+ "P": 0 },
  
+ 
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "Al Fajer 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://imgs1.e-droid.net/srv/imgs/seccs/9047879_ico.png?v=1", 
+ "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/25.m3u8
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "king", "O": "",
+ "P": 0 },
+ 
+ 
+
 
 
 
