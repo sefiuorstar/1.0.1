@@ -32,4 +32,4 @@ httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports10hdaz/1/600/4
 httphost://$http-raw=https://www.janjua.tv/hembedplayer////$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4Max
 
 #EXTINF:1 tvg-id="" tvg-name="ZEE18" tvg-logo="",Fox Soccer Plus Live Streaming
-httphost://$http-raw=https://www.streamlive.to/info/78258/Fox-Soccer-Plus////$http-refferer=https://www.streamlive.to
+httphost://$http-raw=https://www.streamlive.to/view/76663/ESPN-U-(HD)////$http-refferer=https://www.streamlive.to
