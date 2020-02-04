@@ -21,7 +21,7 @@
 ",
  "H": "defaultplayer",
  "I": "false", 
- "J": "direct", 
+ "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
