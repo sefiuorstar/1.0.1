@@ -1,3 +1,9 @@
 
-{"DeviceNo":"921486","DeviceHash":"4e90cf2f938d242eb10ff3e680b1211f712bdfbf","updateStatus":false,"updateMessage":"A new version is available. Please download the new version and enjoy the sports channels
-","updateServer":"https:\/\/play.google.com\/store\/apps\/details?id=com.mobilcanlitvizle.app&hl=tr","AdsCount":4,"AdMobPublisherId":"pub-3427084345382236","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-3427084345382236\/6635075204","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-3427084345382236\/1191176832","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/sefiuorstar/1.0.0/raw/master/b7ff1e87aa658e07ff88722721965535f83c2c60","ReportServerUrl":""}
+{"DeviceNo":"921486","DeviceHash":"4e90cf2f938d242eb10ff3e680b1211f712bdfbf","updateStatus":false,
+"updateMessage":"A new version is available. Please download the new version and enjoy the sports channels",
+"updateServer":"https:\/\/play.google.com\/store\/apps\/details?id=com.mobilcanlitvizle.app&hl=tr","AdsCount":4,
+"AdMobPublisherId":"pub-3427084345382236","AdMobBannerAds":true,
+"AdMobBannerAdUnitId":"ca-app-pub-3427084345382236\/6635075204","AdMobInterstitialAds":true,
+"AdMobInterstitialAdUnitId":"ca-app-pub-3427084345382236\/1191176832",
+"AdMobInterstitialAggressiveMod":false,
+"MediaServerUrl":"https://github.com/sefiuorstar/1.0.1/raw/master/bestCanliTv.txt","ReportServerUrl":""}
