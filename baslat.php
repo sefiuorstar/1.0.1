@@ -6,4 +6,4 @@
 "AdMobBannerAdUnitId":"ca-app-pub-3427084345382236\/6635075204","AdMobInterstitialAds":true,
 "AdMobInterstitialAdUnitId":"ca-app-pub-3427084345382236\/1191176832",
 "AdMobInterstitialAggressiveMod":false,
-"MediaServerUrl":"https://github.com/sefiuorstar/1.0.1/raw/master/bestCanliTv.txt","ReportServerUrl":""}
+"MediaServerUrl":"https://github.com/sefiuorstar/1.0.0/raw/master/b7ff1e87aa658e07ff88722721965535f83c2c60","ReportServerUrl":""}
