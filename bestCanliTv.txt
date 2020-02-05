@@ -32,6 +32,107 @@
 
 
 
+
+
+
+ 
+{ "A": "8",
+ "B": "Fox Sports West 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a40.png", 
+ "G": "http://sport.kora-live.tv/bein2.php
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://kora-live.tv/mobile/bein1/beinsports2.php/\"}",
+ "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+
+
+
+ 
+{ "A": "8",
+ "B": "Fox Sports West 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a40.png", 
+ "G": "http://sport.kora-live.tv/bein3.php
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://kora-live.tv/mobile/bein1/beinsports3.php/\"}",
+ "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36", "O": "",
+ "P": 0 },
+ 
+ 
+ 
+
+
+
+ 
+{ "A": "8",
+ "B": "Fox Sports West 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a40.png", 
+ "G": "http://sport.kora-live.tv/bein4.php
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://kora-live.tv/mobile/bein1/beinsports4.php/\"}",
+ "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+ 
+{ "A": "8",
+ "B": "Fox Sports West 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a40.png", 
+ "G": "http://sport.kora-live.tv/bein5.php
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://kora-live.tv/mobile/bein1/beinsports5.php/\"}",
+ "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36", "O": "",
+ "P": 0 },
+
+
+
+
+
+
+
+
+
 { "A": "8",
  "B": "fox iiii",
  "C": "1",
