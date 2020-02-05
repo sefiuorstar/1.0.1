@@ -4,4 +4,4 @@
 
 
 
-Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"https://github.com/iptvpro93/iptvpro93.github.io/raw/master/GlobalCanliTv_v4.7.5.apk","AdsCount":4,"AdMobPublisherId":"pub-5364152949953979","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-5364152949953979/9767526304","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-5364152949953979/7342627221","MediaServerUrl":"https://github.com/sefiuorstar/1.0.0/raw/master/b7ff1e87aa658e07ff88722721965535f83c2c60","ReportServerUrl":""}
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"https://github.com/iptvpro93/iptvpro93.github.io/raw/master/GlobalCanliTv_v4.7.5.apk","AdsCount":4,"AdMobPublisherId":"pub-","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-/","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-/","MediaServerUrl":"https://github.com/sefiuorstar/1.0.0/raw/master/b7ff1e87aa658e07ff88722721965535f83c2c60","ReportServerUrl":""}
