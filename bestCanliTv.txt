@@ -12,7 +12,7 @@
                 "B": "Science",
                 "C": "1143", "D":"USA TV", "E": "USA TV",
                 "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Science.jpg",
-                "G": "http://ok2.se:8000/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/4743",
+                "G": "http://ok2.se:8000/live/73a7F7U7zJqvEydPi/97a6F9UJlNRSi66qJ/4743.m3u8",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "direct",
@@ -20,7 +20,7 @@
                 "L": "",
                 "M": "",
                 "R": "",
-                "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+                "N": "exoplayer/1.0",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
              
