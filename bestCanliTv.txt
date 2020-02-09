@@ -12,7 +12,7 @@
                 "B": "Science",
                 "C": "1143", "D":"USA TV", "E": "USA TV",
                 "F": "https://ustvgo.tv/wp-content/uploads/2019/08/Science.jpg",
-                "G": "https://raw.githubusercontent.com/freearhey/iptv/master/channels/by.m3u",
+                "G": "http://lop72.com/K3/",
                 "H": "defaultplayer",
                 "I": "false",
                 "J": "graphm3u8",
