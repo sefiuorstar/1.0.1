@@ -185,7 +185,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455_ico.png?v=1", 
- "G": "http://138.201.46.61:8080/live/11/ALKING_PLUS_APP/21.m3u8  
+ "G": "http://cmc.rtmp.io:8080/c439403afd/XlFKyl5Y9h/93257  
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -194,7 +194,7 @@
  "L": "",
  "M": "", 
  "R":"",
- "N": "king", "O": "",
+ "N": "Lavf53.32.100", "O": "",
  "P": 0 },
  
  
