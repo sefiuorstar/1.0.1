@@ -1,3 +1,18 @@
-#EXTM3U
-#EXTINF:-1,RMC 1 HD
-http://frryacineuuk.ddns.net:8000/live/yacineff1000/yacineff1000/22.ts
+HTTP/1.1 302 Found
+Date: Mon, 17 Feb 2020 20:11:13 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d68e5cffbd6f3af3c12aa0a26ffbaff5a1581970273; expires=Wed, 18-Mar-20 20:11:13 GMT; path=/; domain=.falconiptv.com; HttpOnly; SameSite=Lax
+X-Sucuri-ID: 13017
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Location: http://frryacineuuk.ddns.net:8000/live/yacineff1000/yacineff1000/23.ts
+X-Sucuri-Cache: HIT
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 566a68bfbd2c6107-BCN
+
