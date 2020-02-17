@@ -157,7 +157,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455", 
- "G": "http://cdnq.vcdn.tn/iptv/ch30?code=1701341723961808  
+ "G": "http://37.187.195.150:80/live/170134172396180/170134172396180/112.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
