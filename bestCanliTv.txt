@@ -157,7 +157,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455", 
- "G": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8  
+ "G": "http://cdnq.vcdn.tn/iptv/ch30?code=1701341723961808  
 ",
  "H": "defaultplayer",
  "I": "false", 
