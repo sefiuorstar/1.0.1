@@ -159,7 +159,7 @@
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455", 
  "G": "http://37.187.195.150:80/live/103131497823984/103131497823984/112.ts
 ",
- "H": "defaultplayer",
+ "H": "vitamioplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
