@@ -3712,7 +3712,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "G": "http://frryacineuuk.ddns.net:8000/live/yacineff1000/yacineff1000/21.ts
+ "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/rmc2.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
