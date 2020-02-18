@@ -173,6 +173,174 @@
 
 
 
+  
+{ "A": "8",
+ "B": "SuperSport One",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a291.png", 
+ "G": "http://sync1.iptv.bingo/live/2328?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+ 
+  
+{ "A": "8",
+ "B": "SuperSport Two",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a292.png", 
+ "G": "http://sync1.iptv.bingo/live/2329?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+
+
+
+  
+{ "A": "8",
+ "B": "SuperSport Three",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a293.png", 
+ "G": "http://sync1.iptv.bingo/live/2330?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+ 
+   
+{ "A": "8",
+ "B": "SuperSport Four",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a294.png", 
+ "G": "http://sync1.iptv.bingo/live/2331?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+ 
+   
+{ "A": "8",
+ "B": "SuperSport Five",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a295.png", 
+ "G": "http://sync1.iptv.bingo/live/2332?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+   
+{ "A": "8",
+ "B": "SuperSport Six",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a296.png", 
+ "G": "http://sync1.iptv.bingo/live/2333?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+
+
+
+    
+{ "A": "8",
+ "B": "SuperSport Seven",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a297.png", 
+ "G": "http://sync1.iptv.bingo/live/2334?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+
+
+
+    
+{ "A": "8",
+ "B": "SuperSport Eight",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a298.png", 
+ "G": "http://sync1.iptv.bingo/live/2335?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "direct", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"",
+ "N": "ghrffde€4467hgkkj321", "O": "",
+ "P": 0 },
+
+
+
+
+ 
 
 
 
