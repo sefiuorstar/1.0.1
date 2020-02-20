@@ -1,6 +1,12 @@
 
-#EXTM3U 
-#EXT-X-VERSION:3 
-
-http://frryacineuuk.ddns.net:8000/live/yacineff1000/yacineff1000/22.ts
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:17762
+#EXT-X-TARGETDURATION:20
+#EXTINF:20.040,
+http://cdng.pubcdn.tn/iptv/ch253?code=103131497823984
+#EXTINF:18.520,
+http://cdng.pubcdn.tn/iptv/ch253?code=103131497823984
+#EXT-X-DISCONTINUITY
+#EXTINF:20.080,
+http://cdng.pubcdn.tn/iptv/ch253?code=103131497823984
