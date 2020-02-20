@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:180.00000,
+http://frryacineuuk.ddns.net:8000/live/yacineff1000/yacineff1000/22.ts
+#EXT-X-ENDLIST
