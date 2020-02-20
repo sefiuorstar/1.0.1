@@ -3924,15 +3924,15 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1429.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport3
+ "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/Rmc3.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
- "J": "graphm3u8", 
+ "J": "direct", 
  "K": "", 
  "L": "",
  "M": "", "R":"",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"N":"www.yacineapp.tv",
 "O":"",
 "P":0},
  
