@@ -3902,7 +3902,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1428.png", 
- "G": "http://http.mine.nu:8086/live/mama@@**/@@**mama/8087.m3u8
+ "G": "https://github.com/sefiuorstar/1.0.1/raw/master/Rmc1.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -3911,7 +3911,8 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "L": "",
  "M": "", 
  "R":"",
- "N": "ExoMedia 4.0.2 (40200) / Android 8.1.0 / DRA-LX5", "O": "",
+ "N": "www.yacineapp.tv", 
+"O": "",
  "P": 0 },
  
  
