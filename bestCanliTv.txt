@@ -626,8 +626,8 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"",
- "N": "king", "O": "",
+ "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=151\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
  "P": 0 },
 
 
