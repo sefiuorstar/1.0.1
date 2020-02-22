@@ -618,9 +618,9 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/4311455", 
- "G": "http://37.187.195.150:80/live/103131497823984/103131497823984/112.ts
+ "G": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist2.m3u8
 ",
- "H": "vitamioplayer",
+ "H": "defaultplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
