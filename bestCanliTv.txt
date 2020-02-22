@@ -38,7 +38,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be12.png", 
- "G": "http://falconiptv.com:80/live)56565656/56565656/30490.m3u8
+ "G": "http://falconiptv.com:80/live/56565656/56565656/30490.m3u8
 ",
   "H": "defaultplayer",
  "I": "false", 
