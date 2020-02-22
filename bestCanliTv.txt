@@ -592,7 +592,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a40.png", 
- "G": "http://sport.kora-live.tv/bein5.php
+ "G": "https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/fde342dsejg321hklidzaf4gT65fas54-de./Ezfddgfrdefsaqtgdza321hu50f4hd5dse.m3u
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -600,7 +600,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://kora-live.tv/mobile/bein1/beinsports5.php/\"}",
+ "R":"",
  "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36", "O": "",
  "P": 0 },
 
