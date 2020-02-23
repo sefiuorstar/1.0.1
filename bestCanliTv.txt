@@ -8,6 +8,126 @@
 
 
 
+{ "A": "8",
+ "B": "Skynet Sport 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a272.png", 
+ "G": "https://www.doofree88.com/live/skynet-sports-1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "Skynet Sport 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a273.png", 
+ "G": "https://www.doofree88.com/live/skynet-sports-2
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "Skynet Sport 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a274.png", 
+ "G": "https://www.doofree88.com/live/skynet-sports-3
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "Skynet Sport 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a275.png", 
+ "G": "https://www.doofree88.com/live/skynet-sports-4
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "Skynet Sport 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a276.png", 
+ "G": "https://www.doofree88.com/live/skynet-sports-5
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "Skynet Sport 6",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a277.png", 
+ "G": "https://www.doofree88.com/live/skynet-sports-6
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
 
 
 { "A": "8",
