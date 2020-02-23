@@ -9,6 +9,108 @@
 
 
 { "A": "8",
+ "B": "True Premier Football 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1818.png", 
+ "G": "https://www.doofree88.com/live/premier-football-hd-1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "True Premier Football 2",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1819.png", 
+ "G": "https://www.doofree88.com/live/premier-football-hd-2
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "True Premier Football 3",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1820.png", 
+ "G": "https://www.doofree88.com/live/premier-football-hd-3
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "True Premier Football 4",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1821.png", 
+ "G": "https://www.doofree88.com/live/premier-football-hd-4
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8",
+ "B": "True Premier Football 5",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1822.png", 
+ "G": "https://www.doofree88.com/live/premier-football-hd-5
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"https://www.doofree88.com/live\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+
+
+{ "A": "8",
  "B": "Skynet Sport 1",
  "C": "1",
  "D":"SPORTS TV",
