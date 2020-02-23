@@ -238,7 +238,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be11.png", 
- "G": "http://falconiptv.com:80/live/56565656/56565656/30491.m3u8
+ "G": "http://212.224.72.126/?watch\u003dTN/mbc2-ar\u0026token\u003d5yR_LMGy6k3UG05HQVMDhg\u003d\u003d,1582547600.8620316635\u0026t\u003d1\u0026s\u003d2\u0026p\u003d1\u0026c\u003dMA\u0026r\u003d55
 ",
   "H": "defaultplayer",
  "I": "false", 
@@ -260,7 +260,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be12.png", 
- "G": "http://falconiptv.com:80/live/56565656/56565656/30490.m3u8
+ "G": "http://212.224.72.126/?watch=TN/mbc2-ar&token=5yR_LMGy6k3UG05HQVMDhg==,1582547600.8620316635&t=1&s=2&p=1&c=MA&r=55
 ",
   "H": "defaultplayer",
  "I": "false", 
