@@ -15,6 +15,32 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a1818.png", 
+ "G": "http://www.barretos.eu/power/aovivo.php?canal=sportv
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://www.barretos.eu/power/aovivo.php?canal=sportv\"}",
+ "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+ "O":"",
+ "P": 0 },
+
+
+
+
+
+
+
+
+{ "A": "8",
+ "B": "True Premier Football 1",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a1818.png", 
  "G": "http://catalog.mobibase.com/tv/channels/show/id/103
 ",
  "H": "defaultplayer",
