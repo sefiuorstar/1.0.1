@@ -1429,7 +1429,7 @@
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
                 "G": "http://cdn2.hdstreams.club/live/ch2/index.m3u8",
-                "H": "webplayer",
+                "H": "defaultplayer",
                 "I": "false",
                 "J": "direct",
                 "K": "",
