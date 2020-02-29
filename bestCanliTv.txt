@@ -40,7 +40,7 @@
 "L":"https:",
 "M":"",
 "R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/laliga.php\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"N":"mierda",
 "O":"04.06.2019 22:39:32",
 "P":0},
 
@@ -60,7 +60,7 @@
 "L":"https:",
 "M":"",
 "R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/deportes9kt4.php\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"N":"mierda",
 "O":"04.06.2019 22:39:32",
 "P":0},
 
@@ -82,7 +82,7 @@
 "L":"https:",
 "M":"",
 "R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/golf81e.php\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"N":"mierda",
 "O":"04.06.2019 22:39:32",
 "P":0},
 
@@ -102,7 +102,7 @@
 "L":"https:",
 "M":"",
 "R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/vamos9t12.php\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"N":"mierda",
 "O":"04.06.2019 22:39:32",
 "P":0},
 
@@ -123,7 +123,7 @@
 "L":"https:",
 "M":"",
 "R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/goltv4.php\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"N":"mierda",
 "O":"04.06.2019 22:39:32",
 "P":0},
 
