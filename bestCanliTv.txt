@@ -6,6 +6,131 @@
 ],"Y":[
 
 
+{"A":"1144",
+"B":"M. LaLiga TV HD",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+"G":"https://vergol.com/aplicacion/app1/mlaligato.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/mlaligato.php\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"A":"1144",
+"B":"LaLiga TV HD",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/stations/a1461.png",
+"G":"https://vergol.com/aplicacion/app1/laliga.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/laliga.php\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"A":"1144",
+"B":"Movistar Deportes HD",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/stations/a364.png",
+"G":"https://vergol.com/aplicacion/app1/deportes9kt4.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/deportes9kt4.php\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
+{"A":"1144",
+"B":"Movistar Golf",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/stations/a368.png",
+"G":"https://vergol.com/aplicacion/app1/golf81e.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/golf81e.php\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+{"A":"1144",
+"B":"VAMOS ",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/stations/a1601.png",
+"G":"https://vergol.com/aplicacion/app1/vamos9t12.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/vamos9t12.php\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+{"A":"1144",
+"B":"GOL TV ",
+"C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+"F":"https://sport-tv-guide.live/images/stations/a369.png",
+"G":"https://vergol.com/aplicacion/app1/goltv4.php",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://vergol.com/aplicacion/app1/goltv4.php\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
+
+
+
+
+
 
 
 
