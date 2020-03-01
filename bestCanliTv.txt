@@ -15,7 +15,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://1n50rxx3y4hjlkz89vqb61e9-wpengine.netdna-ssl.com/wp-content/uploads/new-el-clasico.jpg", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/elclassico.php
+ "G": "https://github.com/sefiuorstar/1.0.1/raw/master/elclassico.php
 ",
  "H": "defaultplayer",
  "I": "false", 
