@@ -13,7 +13,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://alfajertv.com/style/atyaf/assets/images/logo.png", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/Classico  
+ "G": "https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/fde342dsejg321hklidzaf4gT65fas54-de./Gftvvvgf3256f45gf.m3u  
 ",
  "H": "defaultplayer",
  "I": "false", 
