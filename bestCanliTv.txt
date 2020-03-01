@@ -35,51 +35,6 @@
 
 
 
-{ "A": "8",
- "B": "El Clasico ",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://1n50rxx3y4hjlkz89vqb61e9-wpengine.netdna-ssl.com/wp-content/uploads/new-el-clasico.jpg", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/elclassico.php",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
- "O":"",
- "P": 0 },
-
-
-
-
-
-
-
-{ "A": "8",
- "B": "El Clasico ",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "https://1n50rxx3y4hjlkz89vqb61e9-wpengine.netdna-ssl.com/wp-content/uploads/new-el-clasico.jpg", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/Classico",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
- "O":"",
- "P": 0 },
-
-
-
-
 
 
 
