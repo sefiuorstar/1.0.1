@@ -10,7 +10,7 @@
 {"A":"1028","B":"S SPORT HD (YEDEK)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png","G":"https://www.yalla-shoot-new.com/p/sport-3.html?m=1","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://video-a-dfw.xx.fbcdn.net/hvideo-ash213/v/[^'\"]*mpd[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 
-{"A":"1028","B":"S SPORT HD (YEDEK)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png","G":"https://www.yalla-shoot-new.com/p/sport-2.html?m=1","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://video-mia.xx.fbcdn.net/hvideo-ash213/v/[^'\"]*mpd[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+{"A":"1028","B":"S SPORT HD (YEDEK)","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png","G":"https://www.yalla-shoot-new.com/p/sport-3.html?m=1","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](https://video-[^'\"]*mpd[^'\"]*)['\"]","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 
 
