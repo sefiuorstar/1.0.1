@@ -17,10 +17,7 @@
  "F": "https://1n50rxx3y4hjlkz89vqb61e9-wpengine.netdna-ssl.com/wp-content/uploads/new-el-clasico.jpg", 
  "G": "https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/elclassico.php
 ",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
+ "H": "defaultplayer", "I": "false", "J": "pattern", "K": "['\"]([^'\"]*m3u8[^'\"]*)['\"]",
  "L": "",
  "M": "", 
  "R":"{\"Referer\":\"http://hdstreams.club/page/ch4.php\"}",
