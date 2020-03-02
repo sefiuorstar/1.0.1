@@ -7,23 +7,8 @@
 
 
 
-{"A":"1144",
-"B":"M. LaLiga TV HD",
-"C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
-"F":"https://sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
-"G":"https://m.huya.com/11342386?from=cuowuye&from=cuowuye&from=cuowuye",
-"H":"defaultplayer",
-"I":"false",
-"J":"staticpattern",
-"K":"hasvedio: '(.*?)'",
-"L":"https:",
-"M":"",
-"R":"{\"Referer\":\"https://m.huya.com/11342386?from=cuowuye&from=cuowuye&from=cuowuye\"}",
-"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
-"O":"04.06.2019 22:39:32",
-"P":0},
+
+{"A":"1143","B":"SEMERKAND TV HD","C":"12","D":"DİNİ KANALLAR","E":"DİNİ KANALLAR","F":"https://2.bp.blogspot.com/-OaQ9nWGJl5I/XctVor2P4ZI/AAAAAAAAAPA/Tccpm9iLLNo84mzySkbNwD5wHn9SnL72gCLcBGAsYHQ/s1600/PicsArt_11-13-01.40.02.jpg","G":"https://m.huya.com/11342386?from=cuowuye&from=cuowuye&from=cuowuye","H":"defaultplayer","I":"false","J":"staticpattern","K":"wsSecret=(.*?)['\"]","L":"https://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_2500.m3u8?wsSecret=","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:39:32","P":0},
  
  
  
