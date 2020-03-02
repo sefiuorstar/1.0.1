@@ -161,7 +161,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be11.png", 
- "G": "http://cdn-78.gogo-iptv.com/DSTV-SuperSport-1/tracks-v1a1/mono.m3u8?token=fpyeN64Y3GbDCr8Vf1QwoaXycvjwOrBHCU8ZJ.DGrrCx4HfuMM7SWu2PyO6eYl6y&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=&type=
+ "G": "http://ws-73.gogo-iptv.com/DSTV-SuperSport-2/index.m3u8?token=q2bWFZjmMh4peKsQrzbYDtrGmFQO64ISh4Ol3jBD708_mBfsdvlrIIvEJ3mVNZf.&org=MTk1LjE4MS4xNjAuMTc4OjgwODA=MTk1LjE4MS4xNjAuMTc4OjgwODA=&type=
 ",
   "H": "vitamioplayer",
  "I": "false", 
