@@ -7,25 +7,23 @@
 
 
 
- { "A": "8",
- "B": "Al Fajer Tv",
- "C": "1",
+{"A":"1144",
+"B":"M. LaLiga TV HD",
+"C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
- "F": "https://alfajertv.com/style/atyaf/assets/images/logo.png", 
- "G": "https://raw.githubusercontent.com/sefiuorstar/vlcplayer/master/fde342dsejg321hklidzaf4gT65fas54-de./Gftvvvgf3256f45gf.m3u  
-",
- "H": "defaultplayer",
- "I": "false", 
- "J": "graphm3u8", 
- "K": "", 
- "L": "",
- "M": "", 
- "R":"",
- "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
- "P": 0 },
- 
- 
+"F":"https://sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",
+"G":"https://m.huya.com/11342386?from=cuowuye&from=cuowuye&from=cuowuye",
+"H":"defaultplayer",
+"I":"false",
+"J":"staticpattern",
+"K":"source: '(.*?)'",
+"L":"https:",
+"M":"",
+"R":"{\"Referer\":\"https://m.huya.com/11342386?from=cuowuye&from=cuowuye&from=cuowuye\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"04.06.2019 22:39:32",
+"P":0},
  
  
  
