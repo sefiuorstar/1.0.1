@@ -1018,7 +1018,7 @@
                 "K": "",
                 "L": "",
                 "M": "",
-                "R": "",
+                "R":"{\"Referer\":\"https://www.doomovie-hd.com/?r=tv_view&id=151\"}",
                 "N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
