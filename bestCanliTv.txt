@@ -15,7 +15,7 @@
                  "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "https://d.moshahda.online/l7y2r2zudvmjvkrxw42sadswalatpqjc7de7ury2dczo3f3l36gfb3us4d5a/v.mp4",
+                "G": "https://moshahda.online/embedM-e1tppm9n3sn5-640x344.html?low",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "direct",
