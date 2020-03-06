@@ -14,7 +14,7 @@
                  "D": "Film ",
                 "E": "Film ",
                 "F": "https://app.movizland.online/wp-content/uploads/Sonic-the-Hedgehog-2020.jpg",
-                "G": "https://f.moshahda.online/hls/l7y2xhbudvmjvkrxw42saayoiwkd53xt6sfp4jm7o,niradchz6cxustxlksq,weradchz6czgvkwz5ea,6eradchz6cvel5rrs5a,seradchz6csdfqoyhmq,.urlset/master.m3u8",
+                "G": "https://sv1.data-stream.top/29fa05bd509acc2841a62ce634e4138a7b2497cd1dd017fe6f85265bf323f67c/hls/francetv2.m3u8",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "direct",
