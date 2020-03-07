@@ -3513,7 +3513,7 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+ "G": "http://tv.vodu.me:2052/live/10086/playlist.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -3534,7 +3534,7 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://aldirect.hls.huya.com/backsrc/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+ "G": "http://tv.vodu.me:2052/live/10087/playlist.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -3555,7 +3555,7 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+ "G": "http://tv.vodu.me:2052/live/10088/playlist.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -3577,7 +3577,7 @@
  "D":"LIVE MOVIES",
  "E": "LIVE MOVIES", 
  "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
- "G": "http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+ "G": "http://tv.vodu.me:2052/live/10089/playlist.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
