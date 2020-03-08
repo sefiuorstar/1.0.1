@@ -140,7 +140,7 @@
                  "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "https://m.dailysport.pw/x1/x1.m3u8",
+                "G": "https://cdndaily.troll.network/x1/x1.m3u8",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "direct",
