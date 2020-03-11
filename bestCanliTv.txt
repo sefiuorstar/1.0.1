@@ -1303,7 +1303,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://sync1.iptv.bingo/live/2328?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2328.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1323,7 +1323,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://sync1.iptv.bingo/live/2329?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2329.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1345,7 +1345,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a293.png", 
- "G": "http://sync1.iptv.bingo/live/2330?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2330.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1365,7 +1365,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a294.png", 
- "G": "http://sync1.iptv.bingo/live/2331?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2331.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1385,7 +1385,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a295.png", 
- "G": "http://sync1.iptv.bingo/live/2332?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2332.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1404,7 +1404,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a296.png", 
- "G": "http://sync1.iptv.bingo/live/2333?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2333.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1426,7 +1426,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a297.png", 
- "G": "http://sync1.iptv.bingo/live/2334?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2334.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1448,7 +1448,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a298.png", 
- "G": "http://sync1.iptv.bingo/live/2335?u=1537537&s=a6cdbd5f024ca1f932c492826bb4a22f6ab33e0f277ede54dd2d044f66efd8b9
+ "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2335.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
