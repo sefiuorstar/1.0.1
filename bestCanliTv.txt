@@ -190,7 +190,7 @@
                  "D": "Live In Event",
                 "E": "Live In Event",
                 "F": "https://pbs.twimg.com/profile_images/536131063039684608/rhuQuIgp_400x400.jpeg",
-                "G": "http://tv.vodu.me:2052/bein1/2/index.m3u8",
+                "G": "http://iptvhit.live/sarhantv/sarhan0n/ontv/16",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "direct",
