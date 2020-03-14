@@ -9,7 +9,7 @@ AOS TV compatible with Android supported devices such as Android TV Box, Android
 
 
   ",
-"updateServer":"http://bit.ly/2xyM36x","AdsCount":4,
+"updateServer":"https://www.mediafire.com/file/w2shsp7w8hor4r9/Football_plus_v2.apk/file","AdsCount":4,
 "AdMobPublisherId":"pub-","AdMobBannerAds":true,
 "AdMobBannerAdUnitId":"ca-app-pub-\/","AdMobInterstitialAds":true,
 "AdMobInterstitialAdUnitId":"ca-app-pub-\/",
