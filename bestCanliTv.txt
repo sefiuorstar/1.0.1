@@ -7,6 +7,18 @@
 
 
 
+{"A":"03","B":"We are sorry that we will be discontinuing this copy in a few days, so I advise you to download the new update","C":"1005","D":"Our Telegram Group","E":"update required","F":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVR1FaTvsT7dKwg74WxB9Zs1lqwKbcJL9YBGZkbldaYeH14zu1-BSXWIKA1A&s","G":"https://t.me/footballiveplus","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
+
+
+
+{"A":"03","B":"We are sorry that we will be discontinuing this copy in a few days, so I advise you to download the new update","C":"1005","D":"Our Telegram Group","E":"update required","F":"https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Downloads-icon.png","G":"https://t.me/footballiveplus","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
+
+
+
+
+
+
+
 
 { "A": "8",
  "B": "RMC SPORT HD 1",
