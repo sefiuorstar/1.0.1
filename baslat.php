@@ -1,5 +1,5 @@
 
-{"DeviceNo":"921486","DeviceHash":"4e90cf2f938d242eb10ff3e680b1211f712bdfbf","updateStatus":true,
+{"DeviceNo":"921486","DeviceHash":"4e90cf2f938d242eb10ff3e680b1211f712bdfbf","updateStatus":false,
 "updateMessage":"A new version is available. Please download the new version and enjoy More than 1000 TV channels supported
 Support lots of countries TV channels like USA, UK, Saudi Arabia, India, Pakistan, Bangladesh, France, Italy, Canada, Portugal, etc.
 Well categorized genres, such as Sports, Religion, News, Movies, Entertainment, etc.
