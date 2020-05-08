@@ -14,4 +14,4 @@ AOS TV compatible with Android supported devices such as Android TV Box, Android
 "AdMobBannerAdUnitId":"ca-app-pub-\/","AdMobInterstitialAds":true,
 "AdMobInterstitialAdUnitId":"ca-app-pub-\/",
 "AdMobInterstitialAggressiveMod":false,
-"MediaServerUrl":"https://raw.githubusercontent.com/sefiuorstar/1.0.1/master/bestCanliTv.txt","ReportServerUrl":""}
+"MediaServerUrl":"https://raw.githubusercontent.com/sefiuorstar/1.0.0/master/b7ff1e87aa658e07ff88722721965535f83c2c60","ReportServerUrl":""}
