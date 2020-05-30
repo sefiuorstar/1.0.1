@@ -3484,7 +3484,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
- "G": "http://138.201.187.8/upload/images/logoA01.m3u8
+ "G": "http://138.201.187.8/upload/images/logoA02.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -3492,7 +3492,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/?A01\"}",
+ "R":"{\"Referer\":\"http://qanat.tv/?A02\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
  
