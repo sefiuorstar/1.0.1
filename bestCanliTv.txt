@@ -35,7 +35,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/tv-station-rmc-sport-1-1427.png", 
- "G": "http://kooralive247.com/cha/embed.php?stream=RMCSport1
+ "G": "https://ustvgo.tv/player.php?stream=NBCSN
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -43,7 +43,7 @@
  "K": "", 
  "L": "",
  "M": "",
-"R": "{\"Referer\":\"http://kooralive247.com/cha/embed.php?stream=RMCSport1\"}",
+"R": "{\"Referer\":\"https://ustvgo.tv/nbcsn/\"}",
 "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
 "O": "24.04.2017 20:03:40",
 "P": 0 },
