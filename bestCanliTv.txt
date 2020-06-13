@@ -10102,7 +10102,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
- "G": "http://cdn4.bein-live.net/live2/trainer.m3u8
+ "G": "http://cdn4.bein-live.net/live3/trainer.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -10110,7 +10110,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"http://cdn.bein-live.net/ch.php?mubasher=live2\"}",
+ "R":"{\"Referer\":\"http://cdn.bein-live.net/ch.php?mubasher=live3\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
  
