@@ -10102,7 +10102,7 @@ https://t.me/football_live_plus","H":"openbrowser","I":"","J":"","K":"","L":"","
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://imgs1.e-droid.net/srv/imgs/seccs/7855669_ico.png?v=1", 
- "G": "https://cdn4.bein-live.net/live2/trainer.m3u8
+ "G": "http://cdn4.bein-live.net/live2/trainer.m3u8
 ",
  "H": "defaultplayer",
  "I": "false", 
