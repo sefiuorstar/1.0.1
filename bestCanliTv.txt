@@ -163,7 +163,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be2.png", 
- "G": "http://138.201.187.8/upload/images/logoA02.m3u8
+ "G": "http://287177941.r.fdccdn.net/media/images/logoA02.png
 ",
 "H": "defaultplayer",
  "I": "false", 
@@ -171,7 +171,7 @@
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"http://qanat.tv/\"}",
+ "R":"{\"Referer\":\"http://yariga.tv/\"}",
  "N": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36", "O": "",
  "P": 0 },
  
