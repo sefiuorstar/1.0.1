@@ -33,9 +33,8 @@
  "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
 
 
-{"A":"1284","B":"ALMANYADA TÜRK TV HD 720P","C":"1","D":"ULUSAL KANALLAR","E":"ULUSAL KANALLAR","F":"https://3.bp.blogspot.com/-kSmNcev0zpw/XkyXKyVM86I/AAAAAAAAA7Q/n5zI5nmznKUNjD00XOoCTsLACIeb8HTjACLcBGAsYHQ/s1600/PicsArt_02-19-03.01.22.png","G":"http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
-
+{"A":"1509","B":"SHOW RADYO","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-o5LL_IdKb78/Xt7fid4YglI/AAAAAAAAAg4/zobVM630GL0OGti1qf4kewYazcDIT0x_ACK4BGAsYHg/s300/PicsArt_06-08-11.22.24.png","G":"http://46.20.3.228:80/","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"curl/7.51.0","O":"05.06.2019 08:19:49","P":0},
 
 
 
