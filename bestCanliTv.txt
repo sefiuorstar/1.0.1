@@ -438,7 +438,7 @@
                  "D": "Film ",
                 "E": "Film ",
                 "F": "https://app.movizland.online/wp-content/uploads/Spenser-Confidential-2020.jpg",
-                "G": "https://moshahda.online/588zob7dqd9l.html",
+                "G": "https://www.fushaar.com/movie/the-warrant/",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "graphm3u8",
