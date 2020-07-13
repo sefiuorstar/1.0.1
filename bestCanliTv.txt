@@ -289,7 +289,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://wssfree.com/WSSv2.3/images/be6.png", 
- "G": "http://152.89.61.152:6204/60400655844704/32991126026152/39046
+ "G": "http://iptvclub.live:25461/live/TKZlS6PEMvRUXf7/DKpvQwExSgVJlUb/53619.ts
 ",
 "H": "defaultplayer",
  "I": "false", 
