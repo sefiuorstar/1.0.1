@@ -24,13 +24,13 @@
 
 
 
-{"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://www.doofree88.com/live/sky-sports-football", "H": "defaultplayer",
+{"A":"853","B":"Sky 🏈","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"http://elitegol.me/ver-movistar-laliga/", "H": "defaultplayer",
  "I": "false", 
  "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
+ "R":"{\"Referer\":\"http://elitegol.me/ver-movistar-laliga/\"}","N":"Lavf/56.15.102","O":"25.01.2019 00:39:23","P":0},
 
 
 
