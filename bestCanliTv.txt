@@ -1701,7 +1701,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2328.m3u8
+ "G": "http://tv.raam.re:2082/unloaded/RHBHZuodEn/20869
 ",
  "H": "defaultplayer",
  "I": "false", 
@@ -1721,7 +1721,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a292.png", 
- "G": "http://qualitystreamz.guru:25461/live/taylor2776/tod8900/2329.m3u8
+ "G": "http://tv.raam.re:2082/live/unloaded/RHBHZuodEn/20869.ts
 ",
  "H": "defaultplayer",
  "I": "false", 
