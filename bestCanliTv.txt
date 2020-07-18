@@ -1703,7 +1703,7 @@
  "F": "https://sport-tv-guide.live/images/stations/a291.png", 
  "G": "http://tv.raam.re:2082/unloaded/RHBHZuodEn/20869
 ",
- "H": "defaultplayer",
+ "H": "vitamioplayer",
  "I": "false", 
  "J": "direct", 
  "K": "", 
