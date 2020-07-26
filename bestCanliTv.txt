@@ -436,7 +436,7 @@
                  "D": "Film ",
                 "E": "Film ",
                 "F": "https://app.movizland.online/wp-content/uploads/Spenser-Confidential-2020.jpg",
-                "G": "https://iwaatch.com/view/Cold_War_2018",
+                "G": "https://iwaatch.com/movie/Cold_War_2018",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
@@ -467,7 +467,7 @@
                 "K": "['\"](http[^'\"]*480.mp4[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
-                "R": "",
+                "R": "{\"Referer\":\"https://iwaatch.com/movie/Cold_War_2018\"}",
                 "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
                 "O": "24.04.2017 20:03:40",
                 "P": 0
