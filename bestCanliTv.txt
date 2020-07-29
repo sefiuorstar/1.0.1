@@ -450,6 +450,14 @@
              
             }, 
             
+
+
+{"A":"1223","B":"AZ TV HD","C":"13","D":"AZERBAİJAN","E":"AZERBAİJAN","F":"https://2.bp.blogspot.com/-rKwR7HdOsTQ/XeWzbId9vQI/AAAAAAAAAuk/x3KAgQskSzY-mwIguy2RG4IFVIdunHd8ACLcBGAsYHQ/s1600/PicsArt_11-29-11.24.19.png","G":"https://iwaatch.com/view/Cold_War_2018","H":"defaultplayer","I":"false","J":"staticpattern","K":"movie_480.mp4(.*?)['\"]","L":"https://iwaatch.com:3000/server1/Cold_War_2018/movie_480.mp4","M":"","R":"{\"Referer\":\"https://iwaatch.com/movie/Cold_War_2018\"}","N":"","O":"04.06.2019 22:39:32","P":0},
+
+
+
+
+
             
             
 
