@@ -39,13 +39,13 @@
 
 
 
-{"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://www.doofree88.com/live/sky-sports-football", "H": "defaultplayer",
+{"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://doomovie.com/live/premier-football-hd-1", "H": "defaultplayer",
  "I": "false", 
  "J": "graphm3u8", 
  "K": "", 
  "L": "",
  "M": "", 
- "R":"{\"Referer\":\"https://www.doofree88.com/live/skynet-sports-1\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
+ "R":"{\"Referer\":\"https://doomovie.com/live/premier-football-hd-1\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"25.01.2019 00:39:23","P":0}
  
  
  
