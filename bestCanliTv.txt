@@ -9,25 +9,6 @@
 
 
  
-{ "A": "8",
- "B": "(AR)Bein Sport 1 HD",
- "C": "1",
- "D":"SPORTS TV",
- "E": "SPORTS TV", 
- "F": "http://files.rednetcontent.com/chlogo2/arabic/beinsporthd1.png", 
- "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
-",
-"H": "defaultplayer",
- "I": "false", 
-"J":"staticpattern",
-"K":"token=(.*?)['\"]",
-"L":"http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=",
-"M":"",
-"R":"",
-"N":"",
-"O":"04.06.2019 22:39:32",
-"P":0},
- 
 
 
 {"A":"03","B":"We are sorry that we will be discontinuing this copy in a few days, so I advise you to download the new update","C":"1005","D":"Our Telegram Group","E":"We are sorry that we will be discontinuing this copy in a few days, so I advise you to download the new update","F":"https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Downloads-icon.png","G":"https://t.me/footballiveplus","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
@@ -42,6 +23,40 @@
 
 
 {"A":"03","B":"We are sorry that we will be discontinuing this copy in a few days, so I advise you to download the new update","C":"1005","D":"Our Telegram Group","E":"update required","F":"https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Downloads-icon.png","G":"https://t.me/footballiveplus","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
+
+
+
+
+            
+{
+                "A": "35601",
+                "B": "BEIN SPORT",
+                "C": "21",
+                 "D": "Film ",
+                "E": "Film ",
+                "F": "https://app.movizland.online/wp-content/uploads/Spenser-Confidential-2020.jpg",
+                "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1",
+                "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*bein1hd-ar[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "{\"Referer\":\"bein1hd-ar\"}",
+                "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+            
+
+
+
+
+
+
+
+
 
 
 
