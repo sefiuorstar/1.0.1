@@ -1,30 +1,3 @@
-"http://34.107.131.44/live/l/chunks.m3u8?Mauri.m3u8"
 
 
-"
-http://85.132.53.55/azerbaijan/cbc_sport_hd/playlist.m3u8
-"
-
-
-"
-http://dreamsat.iksa.cc:2086/live/rediptv0dreamsat/XP847wvHuv/2797.m3u8"
-
-
-"http://dreamsat.iksa.cc:2086/live/rediptv0dreamsat/XP847wvHuv/2800.m3u8"
-
-
-
-"http://cdn2.hdstreams.club/live/ch4/index.m3u8"
-
-
-
-"http://134.209.100.165:8080/hls/ch1.m3u8"
-
-
-
-"http://34.107.131.44/live/l/chunks.m3u8"
-
-
-"http://push13.feber.xyz/hls/channel21hd47/chunks.m3u8"
-
-
+{"DeviceNo":"921486","DeviceHash":"4e90cf2f938d242eb10ff3e680b1211f712bdfbf","updateStatus":false,"updateMessage":"Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"https:\/\/play.google.com\/store\/apps\/details?id=","AdsCount":10,"AdMobPublisherId":"pub-","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-/5786026338","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-/2731174504","AdMobInterstitialAggressiveMod":false,"MediaServerUrl":"https://github.com/sefiuorstar/1.0.1/raw/master/bestCanliTv.txt","ReportServerUrl":""}
