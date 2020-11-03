@@ -15,7 +15,7 @@
                  "D": "Film ",
                 "E": "Film ",
                 "F": "https://app.movizland.online/wp-content/uploads/Spenser-Confidential-2020.jpg",
-                "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1",
+                "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1",
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
