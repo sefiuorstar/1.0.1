@@ -8,6 +8,361 @@
 
 
             
+{ "A": "8",
+ "B": "(AR)Bein Sport 1 HD",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo2/arabic/beinsporthd1.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://185.246.210.53:2200/EX/bein1hd-ar/mpegts?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
+
+
+
+
+
+
+
+
+  
+{ "A": "8",
+ "B": "film action",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a291.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.38:2200/VOD/redaction-en/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+
+
+
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 1",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 2",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction2-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 3",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction3-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 4",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction4-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 5",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction5-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 6",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction6-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 7",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction7-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 8",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction8-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 9",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redaction9-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 10",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+  "G": "http://www.247retro.com
+",
+  "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", "R": "{\"Referer\":\"http://www.247retro.com/\"}",
+"N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+"O":"",
+"P":0},
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 11",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+ "H": "defaultplayer",
+ "I": "false", 
+ "J": "graphm3u8", 
+ "K": "", 
+ "L": "",
+ "M": "", 
+ "R":"{\"Referer\":\"http://catalog.mobibase.com/tv/channels/show/id/103\"}",
+ "N": "com.google.android.exoplayer2.core/2.4 (Linux;Android 9) ExoPlayerLib/2.10.2", "O": "",
+ "P": 0 },
+
+
+
+{ "A": "8212",
+ "B": "LIVE MOVIES 12",
+ "C": "145",
+ "D":"LIVE MOVIES",
+ "E": "LIVE MOVIES", 
+ "F": "https://www.iconsdb.com/icons/preview/purple/movies-xxl.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*redcrime2-en[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "REDLINECLIENT",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
+
+
+
+
+
 {
                 "A": "35601",
                 "B": "Spenser Confidential 2020",
