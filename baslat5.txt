@@ -4,4 +4,4 @@
 
 
 
-Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"","AdsCount":4,"AdMobPublisherId":"pub-","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-/","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-/","MediaServerUrl":"https://github.com/sefiuorstar/1.0.0/raw/master/b7ff1e87aa658e07ff88722721965535f83c2c60","ReportServerUrl":""}
+Uygulamay\u0131 kullanabilmek i\u00e7in g\u00fcncelleme yapman\u0131z gerekmektedir.","updateServer":"","AdsCount":4,"AdMobPublisherId":"pub-","AdMobBannerAds":true,"AdMobBannerAdUnitId":"ca-app-pub-/","AdMobInterstitialAds":true,"AdMobInterstitialAdUnitId":"ca-app-pub-/","MediaServerUrl":"https://raw.githubusercontent.com/footballplus/Footballplus.github.io/master/mobtv/4356dsmgfrsl56ads541hjk604gr4jop89/b7ff1e87aa658e07ff88722721965535f83c2c60sefouir4489.php","ReportServerUrl":""}
