@@ -43,7 +43,7 @@
  "I": "false", 
 "J":"staticpattern",
 "K":"token=(.*?)['\"]",
-"L":"http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=",
+"L":"http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=",
 "M":"",
 "R":"",
 "N":"",
