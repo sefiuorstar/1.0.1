@@ -53,6 +53,32 @@
 
 
 
+  
+{ "A": "8",
+ "B": "test 24",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a291.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.52:2200/NI-EX/Dazn_Serie_A_HD-it/index.m3u8?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+
+
+
+
+
+
 
 
 
