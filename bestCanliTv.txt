@@ -16,7 +16,7 @@
                 "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
-                "K": "['\"](http[^'\"]*SKY_SPORT_UNO_HD-it[^'\"]*)['\"]", 
+                "K": "['\"](http[^'\"]*SKY_SPORTS_24_HD-it[^'\"]*)['\"]", 
                 "L": "",
                 "M": "",
                 "R": "",
