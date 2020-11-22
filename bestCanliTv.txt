@@ -5,6 +5,34 @@
 
 ],"Y":[
 
+
+
+
+{ "A": "8",
+ "B": "(IT) Sky Sport Football",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a356.png",
+                "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1",
+                "H": "defaultplayer",
+                "I": "true",
+                "J": "pattern",  
+                "K": "['\"](http[^'\"]*Sky_Sports_Football_HD-uk[^'\"]*)['\"]", 
+                "L": "",
+                "M": "",
+                "R": "",
+                "N": "Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
+                "O": "24.04.2017 20:03:40",
+                "P": 0
+             
+            }, 
+
+
+
+
+
+
  
 { "A": "8",
  "B": "(IT) Sky Sport 24 HD",
