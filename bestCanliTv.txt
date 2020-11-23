@@ -278,7 +278,7 @@
  "I": "false", 
 "J":"staticpattern",
 "K":"token=(.*?)['\"]",
-"L":"http://lilou.tv/play/?id=258&token=",
+"L":"http://185.246.210.53:2200/EX/bein1hd-ar/mpegts?token=",
 "M":"",
 "R":"",
 "N":"",
