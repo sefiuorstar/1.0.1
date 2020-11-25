@@ -267,7 +267,7 @@
 
             
 { "A": "8",
- "B": "(AR)Bein Sport 1 HD",
+ "B": "(AR)Bein Sport 1 HD mpeg",
  "C": "1",
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
@@ -285,6 +285,10 @@
 "O":"04.06.2019 22:39:32",
 "P":0},
  
+
+
+
+
 
 
 
@@ -308,6 +312,27 @@
  "P": 0 }, 
  
             
+
+            
+{ "A": "8",
+ "B": "(AR)Bein Sport 1 HD m3u8",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "http://files.rednetcontent.com/chlogo2/arabic/beinsporthd1.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "false", 
+"J":"staticpattern",
+"K":"token=(.*?)['\"]",
+"L":"http://156.146.43.241:2200/EX/bein1hd-ar/index.m3u8?token=",
+"M":"",
+"R":"",
+"N":"",
+"O":"04.06.2019 22:39:32",
+"P":0},
+ 
 
 
 
