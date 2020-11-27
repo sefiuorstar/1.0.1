@@ -7,6 +7,123 @@
 
 
 
+  
+{
+"A": "8",
+ "B": "(IT) Sky Sport Serie A",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a358.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.52:2200/NI-EX/Dazn_Serie_A_HD-it/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+  
+{
+"A": "8",
+ "B": "(IT) Sky Sport Uno",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a358.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.52:2200/NI-EX/SKY_SPORT_UNO_HD-it/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+{
+"A": "8",
+ "B": "(IT) Sky Sport Arena",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a354.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.52:2200/NI-EX/SKY_SPORT_ARENA_FHD-it/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+                       
+{
+"A": "8",
+ "B": "(IT) SKY SPORTS 24",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a356.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.52:2200/NI-EX/SKY_SPORTS_24_HD-it/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+                            
+{
+"A": "8",
+ "B": "(IT) Sky Sport Football",
+ "C": "1",
+ "D":"SPORTS TV",
+ "E": "SPORTS TV", 
+ "F": "https://sport-tv-guide.live/images/stations/a355.png", 
+ "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
+",
+"H": "defaultplayer",
+ "I": "faltruese", 
+ "J": "staticpattern", 
+ "K":"token=(.*?)['\"]",
+"L":"http://185.246.210.52:2200/NI-EX/Sky_Sport_Football_HD-it/mpegts?token=", 
+ "M": "", 
+ "R":"",
+ "N": "", "O": "",
+ "P": 0 }, 
+ 
+            
+            
+
+
+
+
+
+
+
+
+
             
 { "A": "8",
  "B": "(AR)Bein Sport 1 HD",
