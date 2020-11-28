@@ -131,13 +131,13 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "http://files.rednetcontent.com/chlogo2/arabic/beinsporthd1.png", 
- "G": "http://app.live-plus.info/api/channels
+ "G": "http://www.t100v.com/paid/313952/311306/18714
 ",
 "H": "defaultplayer",
  "I": "false", 
-"J":"staticpattern",
-"K":"liveplusendtime=(.*?)['\"]",
-"L":"http://195.154.164.110:1935/Beinx1/_definst_/bx2_480p/playlist.m3u8?liveplusendtime=",
+"J":"direct",
+"K":"",
+"L":"",
 "M":"",
 "R":"",
 "N":"ExoPlayerDemo/3.0 (Linux;Android 10) ExoPlayerLib/2.11.3",
