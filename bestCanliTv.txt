@@ -172,7 +172,7 @@
 
 
 
-{"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=2&mac=B89BED0206E1",
+{"A":"853","B":"Sky football","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=2910478911&mac=B89BED024A85&customer=RICHTV&check=864740402",
  "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
