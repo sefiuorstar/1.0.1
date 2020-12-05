@@ -21,7 +21,7 @@
  "I": "faltruese", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
-"L":"http://185.246.210.52:2200/NI-EX/Dazn_Serie_A_HD-it/mpegts?token=", 
+"L":"http://51.178.220.156/?watch=EX/bein1hd-ar&token=", 
  "M": "", 
  "R":"",
  "N": "", "O": "",
