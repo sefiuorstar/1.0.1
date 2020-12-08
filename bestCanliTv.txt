@@ -14,7 +14,7 @@
  "D":"SPORTS TV",
  "E": "SPORTS TV", 
  "F": "https://sport-tv-guide.live/images/stations/a358.png", 
-  "G": "https://android.rediptv2.com/ch.php?usercode=4039296386&mac=9023EC63082A&customer=redline&check=929695681
+  "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
 "H": "defaultplayer",
  "I": "faltruese", 
@@ -92,7 +92,7 @@
 
 
 
-{"A":"853","B":"bein 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=4039296386&mac=9023EC63082A&customer=redline&check=929695681",
+{"A":"853","B":"bein 1","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1",
  "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
@@ -110,7 +110,7 @@
                 
   
 
-{"A":"853","B":"bein2","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=4039296386&mac=9023EC63082A&customer=redline&check=929695681",
+{"A":"853","B":"bein2","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1",
  "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
@@ -129,7 +129,7 @@
   
  
 
-{"A":"853","B":"bein3","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=4039296386&mac=9023EC63082A&customer=redline&check=929695681",
+{"A":"853","B":"bein3","C":"1","D":"SPORTS TV","E":"SPORTS TV","F":"https://sport-tv-guide.live/images/stations/a91.png","G":"https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1",
  "H": "defaultplayer",
                 "I": "true",
                 "J": "pattern",  
