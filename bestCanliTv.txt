@@ -16,7 +16,7 @@
  "F": "https://sport-tv-guide.live/images/stations/a358.png", 
   "G": "https://android.rediptv2.com/ch.php?usercode=1515923156&pid=1&mac=B89BED0206E1
 ",
-"H": "defaultplayer",
+"H": "openbrowser",
  "I": "faltruese", 
  "J": "staticpattern", 
  "K":"token=(.*?)['\"]",
