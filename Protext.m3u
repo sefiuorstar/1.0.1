@@ -1,40 +1,75 @@
+m
 
 
-beIN SPORTS MAX 1 4K" tvg-logo="" group-title="AR| BEIN SPORT  HEVC | FHD",beIN SPORTS MAX 1 4K
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287661.m3u8"
-beIN SPORTS MAX 1 HD" tvg-logo="" group-title="AR| BEIN SPORT  HD",beIN SPORTS MAX 1 HD
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287659.m3u8"
-beIN SPORTS MAX 1 SD" tvg-logo="" group-title="AR| BEIN SPORT  SD",beIN SPORTS MAX 1 SD
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287651.m3u8"
-beIN SPORTS MAX 2 4K" tvg-logo="" group-title="AR| BEIN SPORT  HEVC | FHD",beIN SPORTS MAX 2 4K
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287662.m3u8"
-beIN SPORTS MAX 2 HD" tvg-logo="" group-title="AR| BEIN SPORT  HD",beIN SPORTS MAX 2 HD
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287660.m3u8"
-beIN SPORTS MAX 2 SD" tvg-logo="" group-title="AR| BEIN SPORT  SD",beIN SPORTS MAX 2 SD
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287652.m3u8"
-beIN SPORTS MAX 3 4K FR" tvg-logo="" group-title="EU| FRANCE SPORT",beIN SPORTS MAX 3 4K FR
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287663.m3u8"
-beIN SPORTS MAX 3 HD FR" tvg-logo="" group-title="EU| FRANCE SPORT",beIN SPORTS MAX 3 HD FR
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287653.m3u8"
-beIN SPORTS MAX 3 SD FR" tvg-logo="" group-title="EU| FRANCE SPORT",beIN SPORTS MAX 3 SD FR
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287654.m3u8"
-beIN SPORTS MAX 4 4K FR" tvg-logo="" group-title="EU| FRANCE SPORT",beIN SPORTS MAX 4 4K FR
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287664.m3u8"
-beIN SPORTS MAX 4 HD FR" tvg-logo="" group-title="EU| FRANCE SPORT",beIN SPORTS MAX 4 HD FR
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287655.m3u8"
-beIN SPORTS MAX 4 SD FR" tvg-logo="" group-title="EU| FRANCE SPORT",beIN SPORTS MAX 4 SD FR
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/287656.m3u8"
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 1 HD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289046.m3u8"
 
 
 
-LO beIN SPORTS 5 MAX 4k" tvg-logo="" group-title="AR| BEIN SPORT  HEVC | FHD",LO beIN SPORTS 5 MAX 4k
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/288372.m3u8"
 
-LO beIN SPORTS 5 MAX HD" tvg-logo="" group-title="AR| BEIN SPORT  HD",LO beIN SPORTS 5 MAX HD
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/288370.m3u8"
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 1 SD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289047.m3u8"
 
-LO beIN SPORTS 6 MAX 4k" tvg-logo="" group-title="AR| BEIN SPORT  HEVC | FHD",LO beIN SPORTS 6 MAX 4k
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/288371.m3u8"
 
-LO beIN SPORTS 6 MAX HD" tvg-logo="" group-title="AR| BEIN SPORT  HD",LO beIN SPORTS 6 MAX HD
-"http://armada123.ddns.net:8080/live/DM_BMAX/mSeHhaRf/288369.m3u8"
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 2 HD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289048.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 2 SD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289049.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 3 HD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289050.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 3 SD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289051.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 4 HD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289052.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 4 SD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289053.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 5 HD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289054.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 5 4K
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289055.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 6 HD
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289056.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="AR| BEIN EURO 2020",B S MAX 6 4K
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289057.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 1 4K " tvg-logo="" group-title="",B S MAX 1 4K 
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289625.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 2 4K " tvg-logo="" group-title="",B S MAX 2 4K 
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289626.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 3 4K " tvg-logo="" group-title="",B S MAX 3 4K 
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289627.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 4 4K " tvg-logo="" group-title="",B S MAX 4 4K 
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289628.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="" group-title="",B S MAX 5 4K
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289629.m3u8"
+
+
+#EXTINF:-1 tvg-id=:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="" group-title="",B S MAX 6 4K
+"http://armada123.ddns.net:8080/DM_BMAX/mSeHhaRf/289630.m3u8
